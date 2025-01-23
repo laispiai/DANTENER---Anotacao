@@ -11,7 +11,7 @@ Esse é um corpus de material textual compilado do Twitter, agora X. As postagen
   * Arquivo com as decisões de anotação tomadas para casos de dúvida.
 
 * **Tagset**
-  * Conjunto de etiquetas possíveis, conforme a anotação BIOES e a taxonomia utilizada.
+  * Conjunto de etiquetas possíveis, conforme a marcação BIOES e a taxonomia utilizada.
 
 * **Pasta com as regras usadas para anotar automaticamente entidades no corpus.**
   * As regras baseadas em _regex_ foram executadas no ambiente de anotação Interrogatório (https://github.com/alvelvis/Interrogat-rio)
