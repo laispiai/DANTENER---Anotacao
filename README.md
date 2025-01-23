@@ -5,7 +5,7 @@ Esse é um corpus de material textual compilado do Twitter, agora X. As postagen
 # Resumo da estrutura de diretórios e arquivos:
 * **_Corpus_**
   * Última versão do _corpus_ anotado.
-  * Esta é versão de 15/12/2022. Contém 4.048 tweets e 84.396 tokens.
+  * A versão utilizada é de 15/12/2022. Contém 4.048 tweets e 84.396 tokens.
     
 * **Decisões da anotação**
   * Arquivo com as decisões de anotação tomadas para casos de dúvida.
