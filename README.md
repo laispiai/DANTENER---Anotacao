@@ -25,7 +25,7 @@ Esse é um corpus de material textual compilado do Twitter, atualmente X. As pos
   * Contém pastas com as instâncias anotadas. Elas estão separadas por categorias em arquivos JSON.
     * Pasta com entidades unitárias (compostas por um único token)
     * Pasta com entidades multipalavras (compostar por mais de um token)
-  * Arquivo JSON com as instâncias anotadas em mais de uma categoria.
+  * Arquivo JSON com as entidades anotadas em mais de uma categoria.
 
 
 
