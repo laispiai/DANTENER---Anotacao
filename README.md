@@ -10,16 +10,17 @@ Esse é um corpus de material textual compilado do Twitter, atualmente X. As pos
 * **_Corpus_**
   * Última versão do _corpus_ anotado.
   * A versão utilizada é de 15/12/2022 no formato conllu. Contém 4.048 tweets e 84.396 tokens.
+  * Anotação realizada na quinta coluna.
     
 * **Decisões da anotação**
   * Arquivo com as decisões de anotação tomadas para casos de dúvida.
 
 * **Tagset**
-  * Conjunto de etiquetas possíveis, conforme a marcação BIOES e a taxonomia utilizada baseada no Segundo HAREM [(Mota; Santos, 2008)](https://www.linguateca.pt/LivroSegundoHAREM/)
+  * Conjunto de etiquetas possíveis, conforme a marcação BIOES e a taxonomia utilizada baseada no Segundo HAREM [(Mota; Santos, 2008)](https://www.linguateca.pt/LivroSegundoHAREM/).
 
 * **Regras**
   * Pasta com as regras usadas para anotar automaticamente entidades no corpus.
-  * As regras baseadas em _regex_ foram executadas no ambiente de anotação [Interrogatório](https://github.com/alvelvis/Interrogat-rio)
+  * As regras baseadas em _regex_ foram executadas no ambiente de anotação [Interrogatório](https://github.com/alvelvis/Interrogat-rio).
     
 * **Entidades anotadas**
   * Contém pastas com as instâncias anotadas. Elas estão separadas por categorias em arquivos JSON.
