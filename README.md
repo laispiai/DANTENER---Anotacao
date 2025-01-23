@@ -12,7 +12,7 @@ As postagens foram coletadas automaticamente em 2014 com base nos tickers (códi
 
 * **Pasta com as regras usadas para anotar automaticamente entidades no corpus.**
 * **Instâncias anotadas**
-  * Contém pasta com as instâncias anotadas. Os arquivos estão separados por categorias em arquivos JSON.
+  * Contém pasta com as instâncias anotadas. Estão separados por categorias em arquivos JSON.
   * Arquivo JSON com as instâncias anotadas em mais de uma categoria.
   
 
