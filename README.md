@@ -16,7 +16,7 @@ Esse é um corpus de material textual compilado do Twitter, atualmente X. As pos
   * Arquivo com as decisões de anotação tomadas para casos de dúvida.
 
 * **Tagset**
-  * Conjunto de etiquetas possíveis, conforme a marcação BIOES e a taxonomia utilizada baseada no Segundo HAREM [(Mota; Santos, 2008)](https://www.linguateca.pt/LivroSegundoHAREM/).
+  * Conjunto de etiquetas possíveis, conforme a marcação BIOES e a taxonomia baseada no Segundo HAREM [(Mota; Santos, 2008)](https://www.linguateca.pt/LivroSegundoHAREM/).
 
 * **Regras**
   * Pasta com as regras usadas para anotar automaticamente entidades no corpus.
