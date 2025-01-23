@@ -1,0 +1,31 @@
+#Regras para datas seguidas horas
+
+#if regex("-", token.lemma) and regex("\d{2}/\d{2}/\d{4}", token.previous_token.lemma) and regex("\d{2}:\d{2}", token.next_token.lemma):
+#	token.previous_token.xpos = "ENTIDADE=B-TEMPO-TEMPO_CALEND"
+#	token.xpos = "ENTIDADE=I-TEMPO-TEMPO_CALEND"
+#	token.next_token.xpos = "ENTIDADE=E-TEMPO-TEMPO_CALEND"
+
+#token.lemma ="\d{2}/\d{2}/\d{4}" and token.next_token.lemma ="\d{2}:\d{2}"
+#token.lemma = "\d{2}/\d{2}/\d{4}" and token.next_token.lemma != "\d{2}:\d{2}"
+
+#if regex("\d{2}/\d{2}/\d{4}", token.lemma) and regex("\d{2}:\d{2}", token.next_token.lemma):
+#	token.xpos = "ENTIDADE=B-TEMPO-TEMPO_CALEND"
+#	token.next_token.xpos = "ENTIDADE=E-TEMPO-TEMPO_CALEND"
+
+#if regex("-", token.lemma) and regex("\d{2}/\d{2}/\d{4}", token.previous_token.lemma) and regex("_", token.xpos) and regex("NOUN", #token.next_token.upos) and regex("\w*h\w*", token.next_token.lemma):
+#	token.previous_token.xpos = "ENTIDADE=B-TEMPO-TEMPO_CALEND"
+#	token.xpos = "ENTIDADE=I-TEMPO-TEMPO_CALEND"
+#	token.next_token.xpos = "ENTIDADE=E-TEMPO-TEMPO_CALEND"
+
+#terá exceções
+
+#if regex("\d{2}/\d{2}/\d{4}", token.lemma) and regex("_", token.xpos) and regex("\w*h\w*", token.next_token.lemma):
+#	token.xpos = "ENTIDADE=B-TEMPO-TEMPO_CALEND"
+#	token.next_token.xpos = "ENTIDADE=E-TEMPO-TEMPO_CALEND"
+
+#if regex("\d{2}/\d{2}/\d{4}", token.lemma) and regex("_", token.xpos):
+#	token.xpos = "ENTIDADE=S-TEMPO-TEMPO_CALEND"
+
+
+#if regex("\d{2}/\d{1}/\d{4}", token.lemma) and regex("_", token.xpos):
+#	token.xpos = "ENTIDADE=S-TEMPO-TEMPO_CALEND"

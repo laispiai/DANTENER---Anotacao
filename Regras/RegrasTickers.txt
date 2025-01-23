@@ -1,0 +1,27 @@
+#HASHTAGS TICKERS cuja UPOS é "X"
+token.upos = "X" and token.lemma = "#[a-zA-Z]{4}[3456]"
+token.upos = "X" and token.lemma = "#[a-zA-Z]{4}11"
+
+#HASHTAGS TICKERS cuja UPOS é "PROPN"
+token.upos = "PROPN" and token.lemma = "#[a-zA-Z]{4}[3456]"
+token.upos = "PROPN" and token.lemma = "#[a-zA-Z]{4}11"
+token.upos = "PROPN" and token.lemma = "#[A-Za-z]{4}\d{2}"
+
+TICKERS cuja UPOS é "PROPN"
+token.upos = "PROPN" and token.lemma = "#[a-zA-Z]{4}[3456]"
+token.upos = "PROPN" and token.lemma = "#[a-zA-Z]{4}11"
+
+TICKERS cuja UPOS é "PROPN" 4 letras 2 Dígitos
+token.upos = "PROPN" and token.lemma = "[A-Za-z]{4}\d{2}"
+
+TICKERS cuja UPOS é "PROPN" 5 letras 2 Dígitos 
+*Mercado de opção
+*obs 3/19 - dante_01_468811542084218881l
+token.upos = "PROPN" and token.lemma = "[a-zA-Z]{5}\d{2}"
+
+TICKERS (ordinários(?)) -nm
+token.upos = "PROPN" and token.lemma = "\w+-nm"
+
+CASHTAGS
+token.upos = "PROPN" and token.lemma = "\$\w+"
+token.upos = "X" and token.lemma = "\$\w+"

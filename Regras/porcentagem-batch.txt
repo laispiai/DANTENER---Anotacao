@@ -1,0 +1,13 @@
+# Escreva seu script abaixo, seguindo a sintaxe das classes em estrutura_ud.py
+# O script é executado dentro de um loop (repetição) para cada "sentence" do corpus.
+# Dentro de cada "sentence", é realizado ainda um outro loop para acessar cada "token" de "sentence.tokens" (lista de tokens dessa frase), momento em que é aplicada a regra que poderá ser editada abaixo.
+# Não utilize as abreviações disponíveis apenas para busca, como "nt", "pt" e "ht"
+# Para adicionar novos valores a colunas com múltiplos valores (features, misc), utilize as funções append_to() e remove_from(), como no exemplo abaixo
+# Ex: append_to(token.feats, "Gender=Masc|Number=Sing")
+# Para buscar utilizando expressão regular, utilize a função regex(), como no exemplo abaixo
+# Ex: regex(".*mod", token.deprel)
+
+if regex("NUM", token.upos) and regex("ENTIDADE=B-VALOR-QUANTIDADE", token.previous_token.upos) and regex("%", token.next_token.word):
+	token.previous_token.upos = "SYM"
+	token.xpos = "ENTIDADE=I-VALOR-QUANTIDADE"
+	token.next_token.xpos = "ENTIDADE=E-VALOR-QUANTIDADE"

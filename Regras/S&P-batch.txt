@@ -1,0 +1,3 @@
+#Regra específica
+if regex("S&P", token.lemma):
+	token.xpos = "ENTIDADE=S-COISA-MEMBROCLASSE"

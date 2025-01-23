@@ -1,0 +1,4 @@
+#Regra específica
+
+if regex("BTC", token.lemma) and regex("PROPN", token.upos):
+	token.xpos = "ENTIDADE=S-ABSTRACAO-DISCIPLINA"
