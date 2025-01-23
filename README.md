@@ -21,8 +21,10 @@ Esse é um corpus de material textual compilado do Twitter, atualmente X. As pos
   * Pasta com as regras usadas para anotar automaticamente entidades no corpus.
   * As regras baseadas em _regex_ foram executadas no ambiente de anotação [Interrogatório](https://github.com/alvelvis/Interrogat-rio)
     
-* **Instâncias anotadas**
-  * Contém pasta com as instâncias anotadas. Estão separados por categorias em arquivos JSON.
+* **Entidades anotadas**
+  * Contém pastas com as instâncias anotadas. Elas estão separadas por categorias em arquivos JSON.
+    * Pasta com entidades unitárias (compostas por um único token)
+    * Pasta com entidades multipalavras (compostar por mais de um token)
   * Arquivo JSON com as instâncias anotadas em mais de uma categoria.
 
 
