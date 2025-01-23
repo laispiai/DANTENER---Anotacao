@@ -11,7 +11,6 @@ Esse é um corpus de material textual compilado do Twitter, agora X. As postagen
 
 * **Tagset**
   * Conjunto de etiquetas possíveis, conforme a anotação BIOES e a taxonomia utilizada.
-  ![Categories](https://github.com/user-attachments/assets/7e4b53f5-7706-4477-ac90-fa6513b6de55)
 
 * **Pasta com as regras usadas para anotar automaticamente entidades no corpus.**
 * **Instâncias anotadas**
