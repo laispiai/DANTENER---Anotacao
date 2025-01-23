@@ -1,0 +1,38 @@
+[
+  {
+    "categoria": "ACONTECIMENTO",
+    "tipo": "ORGANIZADO",
+    "entidade": "Copa",
+    "UPOS": "PROPN",
+    "exemplo_id": "dante_01_446682266539143169l",
+    "exemplo": "CIEL3 valorizou, está entre as ações indicadas da Carteira Valor. Deve ter sido pelo projeto especial de larga demanda pra Copa. Foi genial.",
+    "frequencia": 5
+  },
+  {
+    "categoria": "ACONTECIMENTO",
+    "tipo": "ORGANIZADO",
+    "entidade": "carnaval",
+    "UPOS": "NOUN",
+    "exemplo_id": "dante_01_441243293221789697l",
+    "exemplo": "Como foram as ações de Petrobras e Vale em Nova York durante o carnaval?: Papéis de empresas... http://t.co/fHQzm2rsUR #infomoney #vale5",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ACONTECIMENTO",
+    "tipo": "ORGANIZADO",
+    "entidade": "Fla-Flu",
+    "UPOS": "PROPN",
+    "exemplo_id": "dante_01_446338005943324672l",
+    "exemplo": "Antecipação do debate político gera clima de 'Fla-Flu' no mercado, diz CEO da Vale: Murilo F... http://t.co/Kjjf3dE5HM #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ACONTECIMENTO",
+    "tipo": "EVENTO",
+    "entidade": "Mega-Sena",
+    "UPOS": "PROPN",
+    "exemplo_id": "dante_01_460816612405567488l",
+    "exemplo": "Dica pra  Mega-Sena: o número do recibo da sua declaração de Imposto de renda tem 6 dígitos joga na Mega Sena #ibov #vale5 #petr4 #sorte",
+    "frequencia": 1
+  }
+]
