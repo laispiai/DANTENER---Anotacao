@@ -1,0 +1,137 @@
+[
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "Análise #Ichimoku",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_441014389496619009l",
+    "exemplo": "#VALE5 - Análise #Ichimoku - pregão de sexta-feira, 28 de fevereiro. http://t.co/kEreB1xgU4",
+    "frequencia": 3
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "Ondas de Elliot",
+    "UPOS": "PROPN ADP PROPN",
+    "exemplo_id": "dante_01_453279716787912704l",
+    "exemplo": "@FIBONACCISEMPRE E agora te o indo para casa , logo mais a noite vou ver as Ondas de Elliot de o #ibovespa e de a #PETR4 .",
+    "frequencia": 3
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "Day trade",
+    "UPOS": "NOUN NOUN",
+    "exemplo_id": "dante_01_448159009464664064l",
+    "exemplo": "Day trade VALE5 Espetacular – 6 prejuízos previstos e evitados (-1,60% de perda evitada!) 24-03-14 http://t.co/OOP3CcpEDF",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "Long & Short",
+    "UPOS": "PROPN SYM PROPN",
+    "exemplo_id": "dante_01_453145208113598464l",
+    "exemplo": "@miguel_brasil @brunomaca1 Não ,  isso é um Long & Short  Dilma X Petr4",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "nuvens do de o ichimoku",
+    "UPOS": "PROPN NA ADP DET PROPN",
+    "exemplo_id": "dante_01_441028254942502912l",
+    "exemplo": "as nuvens do ichimoku: PETR4 - pregão de sexta-feira, 28 de fevereiro http://t.co/fZ3wAPf7An",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "IDEIA",
+    "entidade": "mão invisível",
+    "UPOS": "NOUN ADJ",
+    "exemplo_id": "dante_01_441411471344697345l",
+    "exemplo": "#petr4 abriu as porteiras, agora passa uma boiada! O elástico começou a esticar, a mão invisível logo logo vai entrar pesado nesse papel!",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "Geometria Comportamental",
+    "UPOS": "NOUN ADJ",
+    "exemplo_id": "dante_01_446299810489184256l",
+    "exemplo": "Atualizando estudo gráfico do IBOV, VALE5, PETR4 e índice futuro, segundo a Geometria Comportamental... http://t.co/byInjpJh4L",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "Take Off",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_448084550477185024l",
+    "exemplo": "#voa #goll4, se fechar 15 acima 10,55, rompento 'Take Off'",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "LONG SHORT",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_448514697797840896l",
+    "exemplo": "LONG SHORT PETR4/PETR3 ... lindo !!! http://t.co/Sve4uHo8B7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "IDEIA",
+    "entidade": "Baton Muche",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_451156749123616768l",
+    "exemplo": "Qm entrar Baton Muche vai afundar junto @DesafioNOVO500 @FelipePatury: Planalto libera emendas p esvaziar CPI #PETR4 http://t.co/cPAOE4Lw3B",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "Delta Hedge",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_451751239538450432l",
+    "exemplo": "Entrei numa operação Delta Hedge em #VALE5 vendido no papel e comprado em opções na proporção do Delta, por... http://t.co/79Ogm9GVka",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "Canal Donchian",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_453508118887272448l",
+    "exemplo": "No diário da #PETR4 na máx do dia 02/04/14 uma Onda 4 nos 16,60 e  com alvos pelo Canal Donchian em 14,50 e 13,60 http://t.co/zApyAMcBPV",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "ESTADO",
+    "entidade": "Ceteris Paribus",
+    "UPOS": "X X",
+    "exemplo_id": "dante_01_456429423680815104l",
+    "exemplo": "Ceteris Paribus de #PETR4: - Dilma - Mantega - Graça",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "ESTADO",
+    "entidade": "vaca louca",
+    "UPOS": "NOUN ADJ",
+    "exemplo_id": "dante_01_459527886350065664l",
+    "exemplo": "“@EstadaoEconomia: Governo confirma caso ‘atípico’ do mal da vaca louca em Mato Grosso http://t.co/gNCp114vy8” - jbss3, de olho amanha.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "ESTADO",
+    "entidade": "VACA LOUCA",
+    "UPOS": "NOUN ADJ",
+    "exemplo_id": "dante_01_469515091541770241l",
+    "exemplo": "#JBSS3 ignorando VACA LOUCA, diário de a JBSS3 é bem interessante pois consolida com possível fundo triplo entre médias de 144 e 200.",
+    "frequencia": 1
+  }
+]

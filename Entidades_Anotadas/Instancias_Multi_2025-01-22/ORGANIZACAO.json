@@ -1,0 +1,1658 @@
+[
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "LIGHT S.A.",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_441911906719510529l",
+    "exemplo": "A LIGHT S.A. fechou o dia de ontem ao preço de R$ 16,87 (+1,20%) com volume de R$ 26,32 mm. $LIGT3",
+    "frequencia": 38
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Itaú Unibanco",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_441595069116579840l",
+    "exemplo": "HSBC indica compra de ações do Itaú Unibanco e mais 8 papéis: No lugar das ações da Gerdau (... http://t.co/5QGgAdE1ti #infomoney #vale5",
+    "frequencia": 16
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "All Amer Lat",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_441231959801737217l",
+    "exemplo": "$ALLL3 - All Amer Lat (alll-nm) - Debentures Da 5a Emissao, Serie Unica, Ex-juros http://t.co/XOHGaiIXb9",
+    "frequencia": 10
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Banco do de o Brasil",
+    "UPOS": "PROPN NA ADP DET PROPN",
+    "exemplo_id": "dante_01_441729078123450369l",
+    "exemplo": "Ibovespa sobe 1% puxado por bancos. \\\\ Não a #BBAS3 de o Banco de o Brasil que a o contrário caiu  - 2,27% \\\\ - http://t.co/ty2PZhjdWl",
+    "frequencia": 10
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Vale PN",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_444971486520954880l",
+    "exemplo": "Macktrader Investimentos : Vale PN (Vale5), Gráfico Diário. Estudo do Sar Par... http://t.co/RWN25njFsg",
+    "frequencia": 9
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Souza Cruz",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_446612137251975168l",
+    "exemplo": "$CRUZ3 - Souza Cruz (cruz) - Distribuicao De Dividendo http://t.co/sVHeWwwDEQ",
+    "frequencia": 9
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Cyrela Realt",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_446974800075177985l",
+    "exemplo": "$CYRE3 - Cyrela Realt (cyre-nm) - Fato Relevante   Guidance 2014 http://t.co/eQvkeS4zNd",
+    "frequencia": 9
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Banco De o Brasil",
+    "UPOS": "PROPN ADP DET PROPN",
+    "exemplo_id": "dante_01_441546751867367424l",
+    "exemplo": "$BBAS3 - Banco Do Brasil (bbas-nm) - Fato Relevante   Acordo Com Os Correios http://t.co/kW3xh2fjzU",
+    "frequencia": 8
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Petrobrás PN",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_445694232062222336l",
+    "exemplo": "Macktrader Investimentos : Petrobrás PN (PETR4), Gráfico Semanal. Estudo das ... http://t.co/5bHkUTy8AC",
+    "frequencia": 7
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "BR Malls",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_441596163012435969l",
+    "exemplo": "#BRML3 - Cade aprova consórcio de BR Malls para novo shopping em SP - http://t.co/tey4pIn2fw",
+    "frequencia": 6
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Lojas Renner",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_443844230512144385l",
+    "exemplo": "$LREN3 - Lojas Renner ( lren-nm ) - Ago - 17/04/2014 - 11h00 - Dividendos http://t.co/3PJlEQcEpB",
+    "frequencia": 6
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Estacio Part",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_446998180992122881l",
+    "exemplo": "$ESTC3 - Estacio Part (estc-nm) - Demonstracoes Financeiras Em Ingles De 31/12/2013 http://t.co/RwaW5tLUPW",
+    "frequencia": 6
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Pão de Açúcar",
+    "UPOS": "PROPN ADP PROPN",
+    "exemplo_id": "dante_01_447169841862938624l",
+    "exemplo": "HSBC elege a melhor ação de o varejo em a America Latina: O Pão de Açúcar (PCAR4) é o único representante de o setor... http://t.co/IOrY8Efn1Q",
+    "frequencia": 6
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Grupo Pão de Açúcar",
+    "UPOS": "PROPN PROPN ADP PROPN",
+    "exemplo_id": "dante_01_453837816804696064l",
+    "exemplo": "@abilio_diniz @paodeacucar  Análise dos fundamentos do Grupo Pão de Açúcar #GPA #CBD #PCAR3 #PCAR4 até 12/2013 http://t.co/GYFJfNZm5O",
+    "frequencia": 6
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Brf Sa",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_441235701271912448l",
+    "exemplo": "$BRFS3 - Brf Sa (brfs) - Renuncia E Eleicao De Membros Do C.a. http://t.co/f41iizYOak",
+    "frequencia": 5
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Petrobrás Pn",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_441371156814102528l",
+    "exemplo": "Petrobrás Pn (Petr4), Gráfico Diário. Ação registr... http://t.co/Zsml5piTaT",
+    "frequencia": 5
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Light S/a",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_441932039294836736l",
+    "exemplo": "$LIGT3 - Light S/a (ligt-nm) - Alteracao De o Calendario De Eventos Corporativos http://t.co/XjNJgpnqcw",
+    "frequencia": 5
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Goldman Sachs",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_447010493866442752l",
+    "exemplo": "Goldman Sachs diz que é bom vender CSNA3, por dívidas e resultados abaixo dos esperados...",
+    "frequencia": 5
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Br Malls Par",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_447080717961678848l",
+    "exemplo": "$BRML3 - Br Malls Par (brml-nm) - Alteracao Do Calendario De Eventos Corporativos http://t.co/eiu1Kw2n8r",
+    "frequencia": 5
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Cia Hering",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_447081497980588032l",
+    "exemplo": "$HGTX3 - Cia Hering (hgtx-nm) - Alteracao De o Calendario De Eventos Corporativos http://t.co/za6C2Ivjox",
+    "frequencia": 5
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Prumo Logística",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_449142959225585664l",
+    "exemplo": "Prumo Logística, ex-LLX, anuncia prejuízo de R$ 135,8 milhões em 2013: A Prumo Logística, ex-LLX (LLXL3), divu... http://t.co/LwmlKPqssk",
+    "frequencia": 5
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Cpfl Energia",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_449523852344037376l",
+    "exemplo": "$CPFE3 - Cpfl Energia (cpfe-nm) - Demonstracoes Financeiras De 31/12/2013 (cons) http://t.co/L1mnWwsbdB",
+    "frequencia": 5
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Tim Part S/a",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_454359459591380992l",
+    "exemplo": "$TIMP3 - Tim Part S/a (timp-nm) - Deliberacoes Da Assembleia http://t.co/0MkHI1c4BP",
+    "frequencia": 5
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Banco do de o Brasil On",
+    "UPOS": "PROPN NA ADP DET PROPN PROPN",
+    "exemplo_id": "dante_01_441377317600763904l",
+    "exemplo": "Macktrader Investimentos : Banco do Brasil On (Bbas3), Gráfico Diário. http://t.co/9pBbMOk8Nh",
+    "frequencia": 4
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Um Investimentos",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_441552736673218561l",
+    "exemplo": "10 ações para ganhar dinheiro em março, segundo a Um Investimentos: Neste mês, a corretora o... http://t.co/sUVW1ac2LX #infomoney #vale5",
+    "frequencia": 4
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Credit Suisse",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_444458618797436928l",
+    "exemplo": "Ideia de Long&Short por Credit Suisse - PETR4 x PETR3...quem quiser o relatório é só pedir!",
+    "frequencia": 4
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "bolsa de valores",
+    "UPOS": "PROPN ADP PROPN",
+    "exemplo_id": "dante_01_445358204709781504l",
+    "exemplo": "Curso de aplicação em a bolsa de valores Probabilidades de a PETR4 VALE5 DJI e EURUSD 16 03 14: http://t.co/6FJwSFd7d3 via @YouTube",
+    "frequencia": 4
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Rossi Resid",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_449511006461763584l",
+    "exemplo": "$RSID3 - Rossi Resid (rsid-nm) - Alteracao Da Politica De Divulgacao De Fato Relevante http://t.co/gJVTbOY0uA",
+    "frequencia": 4
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Petrobras PN",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_449938218486886400l",
+    "exemplo": "Em 31.05.2004 Petrobras PN - PETR4 estava a R$ 7,20 - Bovespa - http://t.co/ASPBmyoBSk http://t.co/YpKzyffh4h @stanleyburburin",
+    "frequencia": 4
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Santander Brasil",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_453237939460669440l",
+    "exemplo": "#SANB11 - Santander Brasil assina contrato para compra da Getnet - http://t.co/H56HB4FQ41",
+    "frequencia": 4
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "BR Properties",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_441299470852976640l",
+    "exemplo": "#BR #BOVESPA #BRPR3 BR Properties anuncia venda de R$ 3,18 bilhões em imóveis. http://t.co/ip3sXYLaXA  #IBOV - 0,93% aos 46.654 pontos.",
+    "frequencia": 3
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Vale Pn",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_441371920533966848l",
+    "exemplo": "Macktrader Investimentos : Vale Pn (Vale5), Gráfico Diário. http://t.co/RIuXBsGij2",
+    "frequencia": 3
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "#Petrobrás PN",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_444312738253127680l",
+    "exemplo": "#Petrobrás PN (Petr4), Gráfico Diário. Estudo das m... http://t.co/yvREzJD3Ux",
+    "frequencia": 3
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "CPFL ENERGIA",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_449571881864409088l",
+    "exemplo": "CPFE CPFL ENERGIA dividendos ||aprov 26/3/2014||dataex 30/4/2014||pagto n/d||CPFE3 R$0,590062200 http://t.co/hW0GTPCvy5",
+    "frequencia": 3
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "BTG Pactual",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_454593417712902144l",
+    "exemplo": "Opinião - 10 ideias de investimento, segundo o BTG Pactual: No lugar dos papéis da CPFL (CPFE3) e da Minerva (... http://t.co/9IlIpuO96l",
+    "frequencia": 3
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "ADMINISTRACAO",
+    "entidade": "Polícia Federal",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_455678443704037376l",
+    "exemplo": "$PETR4 - Petrobras: Polícia Federal apreende documentos [Newsletter ADVFN] http://t.co/Lp8lM9FubO",
+    "frequencia": 3
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Energias Br",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_458988430052302849l",
+    "exemplo": "$ENBR3 - Energias Br (enbr-nm) - Material A Disposicao http://t.co/aCe1pdwhIa",
+    "frequencia": 3
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "MMX Mineracao e Metalicos",
+    "UPOS": "PROPN PROPN CCONJ PROPN",
+    "exemplo_id": "dante_01_463389857558323200l",
+    "exemplo": "$VALE5 - Eike Batistas MMX Mineracao e Metalicos Joins Ibovespa Index http://t.co/h97zBtHiB0",
+    "frequencia": 3
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Telecom Italia",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_441968116361609217l",
+    "exemplo": "#TIMP3 - Telecom Italia diz que não há conversas de fusão sobre TIM - http://t.co/O502wucYkW",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Light S.A.",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_443207013405700096l",
+    "exemplo": "A Light S.A. arquivou a ata de a Reunião de o Conselho de Administração realizada hoje. Confira: http://t.co/F8LbSlsFfV $LIGT3",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Lojas Americanas",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_443928019783405568l",
+    "exemplo": "#LAME4 - Lojas Americanas tem lucro de R$ 273,2 mi no 4º tri - http://t.co/gWj9FjnUUU",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "BB Investimentos",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_444083603308175360l",
+    "exemplo": "BB Investimentos troca 5 ativos de sua carteira, veja recomendações: Neste mês, entraram as ... http://t.co/6nvfUxbw1P #infomoney #vale5",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Companhia Siderúrgica Nacional",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_444100263201492993l",
+    "exemplo": "#CSNA3 parece ser uma boa oportunidade na bolsa! Companhia Siderúrgica Nacional esta com valor bem atrativo.",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "INSTITUICAO",
+    "entidade": "Apimec Rio",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_444121511981760512l",
+    "exemplo": "Reunião com a Eletrobras na Apimec Rio no dia 01 de Abril. Coincidentemente, no dia da mentira. Bela escolha, combina com a empresa. #ELET6",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Banco Bradesco",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_445935426608840705l",
+    "exemplo": "$BBDC3 - Banco Bradesco publica Relatório Anual 2013 em novo formato http://t.co/t4O0DpIJQV",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Portugal Telecom",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_445941752961040384l",
+    "exemplo": "OIBR4 dispara com Minoritários tentando barrar fusão com Portugal Telecom http://t.co/pYPtSzga8g",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "P.ACUCAR-CBD ON",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_446313621803773953l",
+    "exemplo": "PCAR P.ACUCAR-CBD ON * div||aprov 16/4/2014||dataex 17/4/2014||pagto n/d||PCAR3 R$0,5353953451||PCAR4 R$0,5889348796 http://t.co/jzFt69KGo0",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "CRUZ SOUZA",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_446638880327229441l",
+    "exemplo": "RT @dividendo_br: CRUZ SOUZA CRUZ dividendos ||aprov 19/3/2014||dataex 20/3/2014||pagto 22/4/2014||CRUZ3 R$0,53600 http://t.co/VSgnbIRjKO",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Ccr Sa",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_446975526323109888l",
+    "exemplo": "$CCRO3 - Ccr Sa (ccro-nm) - Fato Relevante - Assinatura Do Aditivo Do Acrodo De Acionista http://t.co/xzQyZPPbBL",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Petrobras Distribuidora",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_448066819480629248l",
+    "exemplo": "$PETR3 - Petrobras (petr) - Mudanca Na Diretoria Executiva Da Petrobras Distribuidora http://t.co/3n7vTntAVX",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "G ...",
+    "UPOS": "PROPN PUNCT",
+    "exemplo_id": "dante_01_448534744804777984l",
+    "exemplo": "Veja as melhores ações para comprar nesta semana, de acordo com 8 corretoras: Os papéis da G... http://t.co/L6OsbF6Os6 #infomoney #vale5",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Itau Unibanco PN",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_448574872981995521l",
+    "exemplo": "Itau Unibanco PN (ITUB4), Gráfico Diário. http://t.co/UAejznW7Lx",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Gol Linhas Aéreas",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_448812196911652865l",
+    "exemplo": "Resultado corporativo da Gol Linhas Aéreas(GOLL4)  e S&P rebaixa nota de mais 13 empresas brasileiras. Leia mais http://t.co/rM2Ym9HKmG",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Bradesco PN",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_448944359145095168l",
+    "exemplo": "Bradesco PN (BBDC4), Gráfico Diário. http://t.co/8nh3KR9rVT",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "ELPL ELETROPAULO",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_448951505845256193l",
+    "exemplo": "ELPL ELETROPAULO dividendos ||aprov 25/4/2014||dataex 28/4/2014||pagto n/d||ELPL3 R$0,388977082||ELPL4 R$0,427874790 http://t.co/FhJ4SZQxMA",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "B. do de o Brasil",
+    "UPOS": "PROPN NA ADP DET PROPN",
+    "exemplo_id": "dante_01_449250455735255040l",
+    "exemplo": "Estatais em alta: Petrobrás ordinárias, +6,82%, Preferenciais, +6,45%, B.do Brasil, +6,96%, Elet3 +8,46% e Eletr 6, +4,78%",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Gerdau Met",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_450618176342982656l",
+    "exemplo": "Ativa indica 5 papéis para investir nesta semana, confira: No lugar das ações da Gerdau Met (GOAU4) entraram os... http://t.co/sN3ICzZNWz",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Kroton ON",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_451057586591506432l",
+    "exemplo": "Kroton ON ( #KROT3 ) é a ação que mais se valorizou em o 1º trimestre . http://t.co/1uSfwwIMW0",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "#Vale PN",
+    "UPOS": "X PROPN",
+    "exemplo_id": "dante_01_451105526789574656l",
+    "exemplo": "#Vale PN (Vale5), Gráfico Diário. Estudo técnico e ... http://t.co/f1nl7eKo4P",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Morgan Stanley",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_451813351711334400l",
+    "exemplo": "bonito ver o bradescão e o itaú brigando com o Morgan Stanley e o Credit Suiss em o leilão final de a ABEV3 .",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "JBS Foods",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_455901715850874880l",
+    "exemplo": "#MEAT #BOVESPA #JBSS3 #FRIBOI IPO da JBS Foods ajudaria JBS a financiar investimentos: http://t.co/v9DrUDFco8",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Anhanguera Educacional Participacoes S.A",
+    "UPOS": "PROPN PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_456338552117153793l",
+    "exemplo": "$AEDU3 A director at Anhanguera Educacional Participacoes S.A bought 1,310,000 shares at 12.446BR... http://t.co/03ILyLNttg #markets #FT",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Gradual Investimentos",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_456450326267035648l",
+    "exemplo": "O estrategista da Gradual Investimentos, Flávio Conde, recomenda: Invista nas ações do Itaú Unibanco (ITUB4) nesta semana (até 17 de abril).",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "BANCO DE O BRASIL",
+    "UPOS": "PROPN ADP DET PROPN",
+    "exemplo_id": "dante_01_456521725224550400l",
+    "exemplo": "$CIEL3 - CIELO (CIEL3) associa-se a BRADESCO (BBDC4) e BANCO DO BRASIL (BBAS3) http://t.co/YJKdfKKS4C",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Via Varejo",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_456947599489003520l",
+    "exemplo": "Ex-Itaú na Marisa, ex-TAM na Via Varejo, Petrobras, Vale e imobiliárias agitam a noite: Petr... http://t.co/PoqQgsaVIY #infomoney #vale5",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Lato Sensu",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_459167322549542912l",
+    "exemplo": "Uma nova ação foi incluída na carteira da Lato Sensu: a VALE5 (Vale PNA N1). Com esta nova ação, a carteira e as... http://t.co/wtEhs8FVDJ",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Banco Bradesco S/A",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_459618577256304640l",
+    "exemplo": "$BBDC4 - Aviso de Webcast: O Banco Bradesco S/A anuncia o Webcast de sua Teleconferência sobre os Resultados http://t.co/n7pDPbZ54d",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "PETROBRAS CHILE",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_459818537717334016l",
+    "exemplo": "PETROBRAS CHILE - Tribunal ordena a auditoria ambiental SMA para fazer instalações da Petrobras em Iquique http://t.co/i5QTbgneoW",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Telefônica Brasil",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_464375466359394305l",
+    "exemplo": "Lucro da Telefônica Brasil cai 18,4% no 1º tri: SãO PAULO, 8 Mai (Reuters) - O lucro da Telefônica Brasil (VIVT4)... http://t.co/uq3RNNgU3Q",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Itau Unibanco Pn",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_441377820380393472l",
+    "exemplo": "Macktrader Investimentos : Itau Unibanco Pn (Itub4), Gráfico Diário. http://t.co/hj9FKrdtZL",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "LPP Empreendimentos",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_441396685957505024l",
+    "exemplo": "#BRPR3 - BR Properties decide vender R$ 3,2 bi em imóveis para LPP Empreendimentos - http://t.co/vpcasL87VK",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "BR PROPERTIES",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_441578217527590912l",
+    "exemplo": "Notas gerais A BR PROPERTIES (BRPR3) vendeu à LPP Empreendimentos e Participações, sociedade do grupo GLP, a... http://t.co/Ou2D3dYKDh",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "LPP Empreendimentos e Participações",
+    "UPOS": "PROPN PROPN CCONJ PROPN",
+    "exemplo_id": "dante_01_441578217527590912l",
+    "exemplo": "Notas gerais A BR PROPERTIES (BRPR3) vendeu à LPP Empreendimentos e Participações, sociedade do grupo GLP, a... http://t.co/Ou2D3dYKDh",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Raia ...",
+    "UPOS": "PROPN PUNCT",
+    "exemplo_id": "dante_01_441614055694811136l",
+    "exemplo": "Solidez faz 3 trocas e indica 8 ações para comprar em março: No lugar das ações da Brookfield (BISA3), da Raia... http://t.co/GQ1FLrN3GZ",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Cromossomo Participações",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_441969387289845761l",
+    "exemplo": "#DASA3 - Cromossomo Participações pede instauração de arbitragem contra Dasa - http://t.co/9akf5KlsB6",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "BOVESPA ON",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_442032117199802368l",
+    "exemplo": "Boas dicas! Quem pensa em dividendos eu colocaria também a BOVESPA ON (BVMF3) - Valor Econômico - Pesos pesados - http://t.co/GiGFCTjtTk",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "lojas americanas",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_442373650881454080l",
+    "exemplo": "@polynda21 morenaça nas lojas americanas #lame4 http://t.co/D7DankwC3f",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Cemig GT",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_443009081989541888l",
+    "exemplo": "Cade aprova joint venture de Vale e Cemig GT em geração de energia: No âmbito da operação, o... http://t.co/dUvnfHHUDh #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Vale Mineradora",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_443087273215946752l",
+    "exemplo": "Dados da economia da China fazem ações da Vale Mineradora (VALE5), desabarem nesta sessão em -3,80% cotadas em R$ 26,06 (15:13hs)",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Conselho de Administração",
+    "UPOS": "NOUN ADP NOUN",
+    "exemplo_id": "dante_01_443207013405700096l",
+    "exemplo": "A Light S.A. arquivou a ata de a Reunião de o Conselho de Administração realizada hoje. Confira: http://t.co/F8LbSlsFfV $LIGT3",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "conselho de administração",
+    "UPOS": "NOUN ADP NOUN",
+    "exemplo_id": "dante_01_443463813623738368l",
+    "exemplo": "#IBOV #BRML3 BR Malls divulga ata da reunião do conselho de administração realizada dia 25 de fevereiro. http://t.co/7MpofZh7wj",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "ADMINISTRACAO",
+    "entidade": "Procuradoria da de a Repúb",
+    "UPOS": "PROPN NA ADP DET PROPN",
+    "exemplo_id": "dante_01_443546875632029696l",
+    "exemplo": "#PETR4 RT @kitowgallo: PGR manda para o Rio pedido para apurar suposto suborno na Petrobras: Procuradoria da Repúb... http://t.co/kDSqPTbzcD",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Bolsas de Valores",
+    "UPOS": "PROPN ADP PROPN",
+    "exemplo_id": "dante_01_444138981312442368l",
+    "exemplo": "O volume médio diário negociado nas Bolsas de Valores (Bovespa e NYSE) com as ações ITUB3, ITUB4 e ITUB foi de R$ 659 milhões em dez/13.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Oibr Pn",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_444318571363962880l",
+    "exemplo": "Oibr Pn (OIBR4), Gráfico Diário. Estudo do botão v... http://t.co/hRoEi2m3Vq",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Suzano Papel e Celulose S.A.",
+    "UPOS": "PROPN PROPN CCONJ PROPN PROPN",
+    "exemplo_id": "dante_01_444428349222690816l",
+    "exemplo": "$SUZB5 - Aviso de Webcast: A Suzano Papel e Celulose S.A. anuncia a Webcast de sua Teleconferência sobre os http://t.co/QbsegbSTM7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "MRV Engenharia",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_444467127391879168l",
+    "exemplo": "Confira os resultados corporativos das empresas: Suzano (SUZB5) e MRV Engenharia (MRVE3) Leia mais http://t.co/3n0iYRJqta",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "COMPANHIA SIDERÚRGICA NACIONAL",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_444467288595775488l",
+    "exemplo": "Notas gerais A COMPANHIA SIDERÚRGICA NACIONAL (CSNA3) abriu um novo programa de recompra de até 10% suas... http://t.co/4O0ePAN2Av",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Telefônica Br",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_444516832053972992l",
+    "exemplo": "Conheça as melhores pagadoras de dividendos para comprar em março: As ações da Telefônica Br... http://t.co/HUzJCJKZRA #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Brookfield Incorporações",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_444560724937809920l",
+    "exemplo": "BISA3 - AGE sobre OPA não foi realizada por falta de quórum A AGE da Brookfield Incorporações que deliberaria... http://t.co/UHOEPbGUFS",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Merril Lynch",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_444567108572418048l",
+    "exemplo": "Morgan e Merril Lynch atacaram bonito tirando PETR4 do exercício 13,00, um dois dois usou hj a Gradual pra ajudar a socar, só pra despistar",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "PETROBRAS PN",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_444643488555339776l",
+    "exemplo": "PETROBRAS PN   Valor do fech. em 15/03/2010 R$36,78. Valor do fech. em 14/03/2014 R$12,78. Desvalorização de 65,3%. http://t.co/gXzIlRak4Y …",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Conselho Fiscal",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_445258830608609281l",
+    "exemplo": "#PETR3 #PETR4 - Conselho Fiscal da Petrobras faz alerta sobre dívida e rating de crédito - http://t.co/1Wvbdr6yQh",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Suzano Papel e Celulose",
+    "UPOS": "PROPN PROPN CCONJ PROPN",
+    "exemplo_id": "dante_01_445564878510915584l",
+    "exemplo": "#BOVESPA #SUZB5 Suzano Papel e Celulose publica suas demonstrações financeiras anuais de 2013.  http://t.co/xnAwHPg9zU",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Conselho da de a Petrobras",
+    "UPOS": "PROPN NA ADP DET PROPN",
+    "exemplo_id": "dante_01_445716482119704576l",
+    "exemplo": "#OIL #BR #PETR4 Conselho de a Petrobras aprova balanço de 2013, 1 voto contra:  http://t.co/m9siDgEHTZ",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "assembleia geral ordinária",
+    "UPOS": "NOUN ADJ ADJ",
+    "exemplo_id": "dante_01_445961142213808128l",
+    "exemplo": "#IBOV #MRFG3 Marfrig realiza assembleia geral ordinária dia 17 de abril de 2014, às 10:00h. http://t.co/5BYxsyu6Vm",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "América Latina Logistica",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_445976984900739072l",
+    "exemplo": "América Latina Logistica, nossa Segunda indicação de ações para Março esta agitando o mercado este ano. Não perca! #alll3",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "banco SANTANDER",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_446283986005143552l",
+    "exemplo": "Notas gerais O banco SANTANDER (SANB11) aprovou a planejada bonificação de ações da companhia, o que resultará... http://t.co/aMcLBRvqpd",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "ADMINISTRACAO",
+    "entidade": "Receita Federal",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_446284799704330240l",
+    "exemplo": "ABEV3, caindo neste instante 1,01%, com rumores de q a Receita Federal se prepara para aumentar em 1º de abril impostos s/ bebidas frias...",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "PCAR P.ACUCAR-CBD ON",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_446320170353844226l",
+    "exemplo": "RT @dividendo_br: PCAR P.ACUCAR-CBD ON * div||aprov 16/4/2014||dataex 17/4/2014||pagto n/d||PCAR3 R$0,5353953451||PCAR4 R$0,5889348796 http…",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Brasil Plural",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_446655962460749824l",
+    "exemplo": "#PETR4 subindo...e os gringos na venda. Estranho não? Na compra só Bradesco, Brasil Plural, Convencão e BTG.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "ADMINISTRACAO",
+    "entidade": "Gov PT",
+    "UPOS": "NOUN PROPN",
+    "exemplo_id": "dante_01_446680049761394689l",
+    "exemplo": "Em o Gov PT #Petrobras é pau p/ toda obra, desde dar cargos até fazer política antiinflacionária. Só não é vista como uma empresa. #PETR4",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Companhia Energética de Minas Gerais",
+    "UPOS": "PROPN PROPN ADP PROPN PROPN",
+    "exemplo_id": "dante_01_448068761447575552l",
+    "exemplo": "$CMIG4 - Aviso de Vídeo Webcast: A Companhia Energética de Minas Gerais - CEMIG anuncia a Vídeo Webcast e http://t.co/bU05WM0FUN",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "conselho da de a #PETR4",
+    "UPOS": "PROPN NA ADP DET PROPN",
+    "exemplo_id": "dante_01_448099516752101377l",
+    "exemplo": "Esse caso de a refinaria de Pasadena merece mais atenção. Principalmente considerando q a Sra. Dilma estava a frente de o conselho de a #PETR4.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Petrobrás Biocombustíveis",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_448463477922095104l",
+    "exemplo": "Agora é uma cagada por dia #PETR4 RT:Após Pasadena, Petrobrás Biocombustíveis será investigada no Rio Grande do Sul http://t.co/JrCPsKCgC6",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Standard & Poor’s",
+    "UPOS": "PROPN SYM PROPN",
+    "exemplo_id": "dante_01_448600303500533760l",
+    "exemplo": "Standard & Poor’s revê classificação de risco e mantém o Grau de Investimento. http://t.co/1ZnxOUvXV7 #PETR4",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "ECORODOVIAS ON",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_448827600157552640l",
+    "exemplo": "ECOR3 - ECORODOVIAS ON jscp ||aprov 25/3/2014||dataex 26/3/2014||pagto n/d||ECOR3 R$0,037497502 http://t.co/XRxkJbNvZ4",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Portugal Tel",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_448839735881256960l",
+    "exemplo": "@resantosformiga CVM decidiu dar poder a os controladores em a AGE q examinará o valor de os ativos de a Portugal Tel. OIBR -9,75% e TIMP3 +4,89%",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Telefônica Vivo",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_448905742108856321l",
+    "exemplo": "#VIVT4 - Telefônica Vivo estrutura área de segurança digital - http://t.co/Pb8O81k7is",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "banco do de o Brasil",
+    "UPOS": "PROPN NA ADP DET PROPN",
+    "exemplo_id": "dante_01_449188293310435328l",
+    "exemplo": "Não entendo muito de ações, mas tem um padrão na ação do banco do Brasil #BBAS3 nos últ 5 anos. Em Abr ela valoriza e em Out despenca.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Investment Grade",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_449196737367146496l",
+    "exemplo": "#petr4 = alta de 6,11% às 11:47 ao preço de R$ 15,27, alavancagem de 20X na CLEAR, MELHOR TRADE DO ANO! Parecido c/ dia do Investment Grade",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Eletrobrás ON",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_449278725813985280l",
+    "exemplo": "Fechamento das estatais na Bovespa: PETR3, +7,54%, PETR4, +8,12%, Banco do Brasil, +6,63%, Eletrobrás ON, +9,84% e Eletrobrás PNB, +3,51%",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Eletrobrás PNB",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_449278725813985280l",
+    "exemplo": "Fechamento das estatais na Bovespa: PETR3, +7,54%, PETR4, +8,12%, Banco do Brasil, +6,63%, Eletrobrás ON, +9,84% e Eletrobrás PNB, +3,51%",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Banco do de o Brasil ON",
+    "UPOS": "PROPN NA ADP DET PROPN PROPN",
+    "exemplo_id": "dante_01_449302361261875202l",
+    "exemplo": "Banco do Brasil ON (BBAS3), Gráfico Diário. Ação s... http://t.co/uUcr12d64b",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "CIA HERING",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_449657325595660288l",
+    "exemplo": "HGTX CIA HERING dividendos ||aprov 23/4/2014||dataex 24/4/2014||pagto 28/5/2014||HGTX3 R$0,3037 http://t.co/nN7pFUCoM3",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Bolsa de Valores",
+    "UPOS": "PROPN ADP PROPN",
+    "exemplo_id": "dante_01_449776851863347201l",
+    "exemplo": "Como ganhar dinheiro na Bolsa de Valores comprando ações. JBSS3: http://t.co/NVmiEMFC16 via @YouTube",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Sbm Offshore",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_450692645279772672l",
+    "exemplo": "$PETR3 - Petrobras (petr) - Sbm Offshore- Conclusao Da Apuracao Interna Petrobras http://t.co/xbnT7Ai9zA",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "BR Insurance",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_450749596755439616l",
+    "exemplo": "BR Insurance e Forjas Taurus roubam a cena e caem 30% e 11%, veja destaques: Ações da Eletro... http://t.co/6aLxaxCJsZ #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Forjas Taurus",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_450749596755439616l",
+    "exemplo": "BR Insurance e Forjas Taurus roubam a cena e caem 30% e 11%, veja destaques: Ações da Eletro... http://t.co/6aLxaxCJsZ #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Eletro ...",
+    "UPOS": "PROPN PUNCT",
+    "exemplo_id": "dante_01_450749596755439616l",
+    "exemplo": "BR Insurance e Forjas Taurus roubam a cena e caem 30% e 11%, veja destaques: Ações da Eletro... http://t.co/6aLxaxCJsZ #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "AB InBev",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_450967654300254208l",
+    "exemplo": "Luz na passatela que lá vem ela: AB InBev conclui compra da Oriental Brewery | http://t.co/XN66BjHuYp | #adonadasloiras #nomundo #abev3",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Oriental Brewery",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_450967654300254208l",
+    "exemplo": "Luz na passatela que lá vem ela: AB InBev conclui compra da Oriental Brewery | http://t.co/XN66BjHuYp | #adonadasloiras #nomundo #abev3",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "ADMINISTRACAO",
+    "entidade": "Ministério da de a Fazenda",
+    "UPOS": "PROPN NA ADP DET PROPN",
+    "exemplo_id": "dante_01_450995902124408832l",
+    "exemplo": "Agora é oficial... Ministério de a Fazenda publicou portaria que aumenta a tributação de bebidas frias. #ABEV3",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Pão ...",
+    "UPOS": "PROPN PUNCT",
+    "exemplo_id": "dante_01_451043452910718978l",
+    "exemplo": "8 corretoras apontam as melhores ações para comprar nesta semana: Os papéis de a Vale e de o Pão... http://t.co/BYQAlss0OB #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Credit Suiss",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_451813351711334400l",
+    "exemplo": "bonito ver o bradescão e o itaú brigando com o Morgan Stanley e o Credit Suiss em o leilão final de a ABEV3 .",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Central Eolica Mundau",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_452061550594236416l",
+    "exemplo": "$TBLE3 - Tractebel (tble-nm)- Entrada Em Operacao Comercial Da Central Eolica Mundau http://t.co/zejzckVYtT",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "CPFL Energia",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_452159443690864640l",
+    "exemplo": "$CPFE3 - CPFL Energia divulga o Relatório Anual (Form 20-F) 2013 na SEC http://t.co/Lizy0GjUUH",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "ENBR ENERGIAS BR",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_452175883265384449l",
+    "exemplo": "RT @dividendo_br: ENBR ENERGIAS BR dividendos ||aprov 29/4/2014||dataex 30/4/2014||pagto n/d||ENBR3 R$0,717165 http://t.co/IJzOtrdAz7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "P ...",
+    "UPOS": "PROPN PUNCT",
+    "exemplo_id": "dante_01_453151378261557248l",
+    "exemplo": "Perda do FGTS em ações atinge R$ 662 mi no ano com Petrobras e Vale: Aplicação em ações da P... http://t.co/HDoJKBDyjT #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "ADMINISTRACAO",
+    "entidade": "Casa Branca",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_453579148670156800l",
+    "exemplo": "Wikileaks: Casa Branca consultou Dilma antes de autorizar aquisição de refinaria por Petrobrás #PETR4 http://t.co/Bq8aKioBnC",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Lojas ...",
+    "UPOS": "PROPN PUNCT",
+    "exemplo_id": "dante_01_453627803926159360l",
+    "exemplo": "Santander recomenda 4 novas ações para o mês de abril na bolsa, saiba quais: Usiminas, Lojas... http://t.co/mWKucmv9G0 #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "federal Foods",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_453879051196039169l",
+    "exemplo": "$BRFS3 - Brf Sa (brfs-nm)- Conclusao De a Aquisicao De Direitos Economicos -federal Foods http://t.co/X4MZC7Y8FC",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Conselho Administrativo ...",
+    "UPOS": "NOUN ADJ PUNCT",
+    "exemplo_id": "dante_01_453998678693675010l",
+    "exemplo": "(-) USIM5, USIM3 e CSNA3: CADE DECIDE QUE CSN TERÁ DE REDUZIR PARTICIPAÇÃO NA USIMINAS O Conselho Administrativo... http://t.co/4tPso1oeiU",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Sid Nacional",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_454228302602182656l",
+    "exemplo": "$CSNA3 - Sid Nacional (csna) - Decisao Do Cade - Ato De Concentracao http://t.co/TiZ1NR1soE",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "São Judas",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_454665164701192192l",
+    "exemplo": "TEMPO REAL: Souza Cruz cai após disparar 6% na véspera, Anima dispara 7% com São Judas: Acom... http://t.co/5NnOZqowOS #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "ADMINISTRACAO",
+    "entidade": "Policia Federal",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_454671217912709121l",
+    "exemplo": "Virrrgi '@CarlosPort: Então a Policia Federal #PETR4,prendeu mais de 20 que destruiam provas?! Falta mais o que pra CPI? #DilmaTemMedoDaCPI'",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "PÃO DE AÇÚCAR",
+    "UPOS": "PROPN ADP PROPN",
+    "exemplo_id": "dante_01_454717784413728768l",
+    "exemplo": "PÃO DE AÇÚCAR (PCAR4) A companhia divulgou hoje (11/04/2014) pela manhã sua prévia operacional referente ao... http://t.co/8PDPttsLFG",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Petroleo Brasileiro S.A.",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_455319320118460416l",
+    "exemplo": "RT @marcos_bicalho: Balanço Patrimonial Petroleo Brasileiro S.A. Petrobras PN http://t.co/6H6TsBvr6b",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "VALE - PNA",
+    "UPOS": "PROPN PUNCT PROPN",
+    "exemplo_id": "dante_01_455626627750559744l",
+    "exemplo": "RT @COTA_VALE5: VALE        -PNA : #VALE5 Valor: R$33,04 Var.: R$+0,14 +0,43% Max. dia: R$33,54 Min. dia: R$33,03",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Clwp Brasil Iii Participacoes Ltda",
+    "UPOS": "PROPN PROPN NUM PROPN PROPN",
+    "exemplo_id": "dante_01_455682223635972096l",
+    "exemplo": "$TBLE3 - Tractebel (tble-nm) - Aquisicao Da Clwp Brasil Iii Participacoes Ltda http://t.co/aEbGF4Enme",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "O Boticário",
+    "UPOS": "DET PROPN",
+    "exemplo_id": "dante_01_455712621023723520l",
+    "exemplo": "Natura perdeu a liderança no segmento de perfumes para O Boticário, segundo pesquisa da Euromonitor. #NATU3,  -0,12% em 2014.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Grupo Électricité de France",
+    "UPOS": "PROPN PROPN ADP PROPN",
+    "exemplo_id": "dante_01_455723336879075328l",
+    "exemplo": "Notas gerais A PETROBRAS ( PETR4 ) assinou com o Grupo Électricité de France contrato para a venda de sua ... http://t.co/h3dMUjViMQ",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "CLWP Brasil III Participações",
+    "UPOS": "PROPN PROPN NUM PROPN",
+    "exemplo_id": "dante_01_455791079603052545l",
+    "exemplo": "$TBLE3 - TRACTEBEL (TBLE3) adquire totalidade do capital social da CLWP Brasil III Participações http://t.co/U6Ye8zmmjk",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Tractebel Energia S.A.",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_456076763580600320l",
+    "exemplo": "$TBLE3 - Aviso de Webcast: Tractebel Energia S.A. anuncia a Webcast de sua Teleconferência sobre os Resultados http://t.co/nOsuaOc2OG",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Pdg Realt",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_456080818830864384l",
+    "exemplo": "$PDGR3 - Pdg Realt (pdgr-nm) - Material A Disposicao (indicacao De Candidatos Para O Ca) http://t.co/8KQgdZbmKD",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Bove …",
+    "UPOS": "PROPN PUNCT",
+    "exemplo_id": "dante_01_456113957775101952l",
+    "exemplo": "RT @Rede45: Graça Foster segue tentando explicar prejuízo da Petrobras em Pasadena e ação PETR4 tem queda de quase 5% neste momento na Bove…",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "bols …",
+    "UPOS": "PROPN PUNCT",
+    "exemplo_id": "dante_01_456157420415246336l",
+    "exemplo": "RT @SouCalmo: Vc ñ respondeu um monte de perguntas Graça Foster.. Q venha a CPI.. Tanto ñ explicou, q as ações da Petr4 despencam na bols…",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "SUZB SUZANO PAPEL",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_456794505094520832l",
+    "exemplo": "RT @dividendo_br: SUZB SUZANO PAPEL  div||aprov 30/4/2014|ex 2/5/2014||pagto n/d||SUZB3 R$0,10545||SUZB5 R$0,11600||SUZB6 R$0,34523 http://…",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "ADMINISTRACAO",
+    "entidade": "receita federal",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_456926942101770240l",
+    "exemplo": "Dica de Declaração do Imposto de Renda &gt; Situação em 31/12/2013 [ bêbado vendo os fogos de artifício ] #ibov #petr4 #vale5 receita federal",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Petr ...",
+    "UPOS": "PROPN PUNCT",
+    "exemplo_id": "dante_01_456947599489003520l",
+    "exemplo": "Ex-Itaú na Marisa, ex-TAM na Via Varejo, Petrobras, Vale e imobiliárias agitam a noite: Petr... http://t.co/PoqQgsaVIY #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Vale R Doce",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_458573843578511361l",
+    "exemplo": "$VALE3 - Vale R Doce (vale-n1) - Age Nao Instalada http://t.co/nHqRUdj59L",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "ADMINISTRACAO",
+    "entidade": "Corte Internacio",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_458603499581083648l",
+    "exemplo": "PETR4: Revista Veja informou q uma disputa judicial bilionária (R$ 50bi) entre a Petrobras e ANP será arbitrada agora pela Corte Internacio.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Vale ON",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_458606212007727105l",
+    "exemplo": "TEMPO REAL: Via Varejo despenca mais de 5% após renúncia de CEO, Vale ON cai quase 2%: Confi... http://t.co/uDSHvArXvb #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "ADMINISTRACAO",
+    "entidade": "Co …",
+    "UPOS": "PROPN PUNCT",
+    "exemplo_id": "dante_01_458658192898400259l",
+    "exemplo": "RT @ferrisss: PETR4: Revista Veja informou q uma disputa judicial bilionária (R$ 50bi) entre a Petrobras e ANP será arbitrada agora pela Co…",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "OI BR Pn",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_458984919897604096l",
+    "exemplo": "OI BR Pn (OIBR4), Gráfico Semanal. Ativo testando fundo de 2001. http://t.co/gm9HpwTnwA",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Vale PNA N1",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_459167322549542912l",
+    "exemplo": "Uma nova ação foi incluída na carteira da Lato Sensu: a VALE5 (Vale PNA N1). Com esta nova ação, a carteira e as... http://t.co/wtEhs8FVDJ",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Usinas Siderúrgicas de Minas Gerais S.A.",
+    "UPOS": "PROPN PROPN ADP PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_459287254511656960l",
+    "exemplo": "$USIM5 - Aviso de Webcast: Usinas Siderúrgicas de Minas Gerais S.A. - USIMINAS Anuncia a Webcast de sua http://t.co/wPlW65j1w0",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Itaú Unibanco Holding S.A.",
+    "UPOS": "PROPN PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_459317257609703424l",
+    "exemplo": "$ITUB4 - Acompanhe ao vivo a Teleconferência: Resultados do 1º trimestre de 2014 do Itaú Unibanco Holding S.A. http://t.co/7xRnEMsBI6",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Oi Br PN",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_459533678469591040l",
+    "exemplo": "Macktrader Investimentos : Oi Br PN (OIBR4), Gráfico Diário. Estudo técnico e... http://t.co/Lq9HR4p163",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "conselho da de a Petrobras",
+    "UPOS": "NOUN NA ADP DET PROPN",
+    "exemplo_id": "dante_01_459655850961809408l",
+    "exemplo": "Reunião do conselho da Petrobras hoje, resultados e Vale agitam noticiário: Entre a temporad... http://t.co/1YYzcTRfmC #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "ADMINISTRACAO",
+    "entidade": "Superior Tribunal de Justiça",
+    "UPOS": "PROPN PROPN ADP PROPN",
+    "exemplo_id": "dante_01_459665637887840257l",
+    "exemplo": "#VALE5 O Superior Tribunal de Justiça (STJ) considerou ilegal a forma como o governo cobrava impostos em algumas... http://t.co/yhnlSMQHuL",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "#PETROBRAS ON",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_460225661630947328l",
+    "exemplo": "#PETROBRAS ON PETR3 Preço  R$ 15,12 #Oscilação -1,11% Nº de Negócios 16.661",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Fibria Celulose",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_460775523166461953l",
+    "exemplo": "#BR #BOVESPA #FIBR3  Fibria Celulose divulga fato relevante sobre plano de outorga de opção de compra de ações. http://t.co/xVMnlhrXwG",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Santos Brasil",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_460779085057097728l",
+    "exemplo": "TEMPO REAL: Oi e Vale caem mais de 3%, Santos Brasil dispara com 'solução' dos acionistas: A... http://t.co/zF0WTRs5dD #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Oi S.A.",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_461098921193119744l",
+    "exemplo": "$OIBR4 - Oi S.A. - MATERIAL FACT http://t.co/EvS5qg2ULY",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "ITAÚ UNIBANCO",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_461124460997640192l",
+    "exemplo": "Itaú lucra R$ 4,4 bi O banco ITAÚ UNIBANCO (ITUB4) apresentou agora pela manhã o resultado das operações no... http://t.co/D7BDbngehu",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Banco Santander",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_461125555522240512l",
+    "exemplo": "(+) Banco Santander (SANB11): Oferta para aquisição de ações. O banco anunciou nesta terça-feira que está... http://t.co/4beWp1clzY",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Vale do de o Rio Doce",
+    "UPOS": "PROPN NA ADP DET PROPN PROPN",
+    "exemplo_id": "dante_01_461132325490016256l",
+    "exemplo": "Galera, ótima oportunidade de entrada na VALE5, Vale do Rio Doce. Gráfico formando a famosa figura… http://t.co/9NFGz77jUG",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "SANTANDER BRASIL",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_461487730128461824l",
+    "exemplo": "Notas gerais As Units do SANTANDER BRASIL (SANB11) registraram a maior valorização do índice IBOVESPA ontem... http://t.co/rUPecmDWR5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "mineradora Vale",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_461489131474792449l",
+    "exemplo": "Vale lucra R$ 5,9 bi no primeiro trimestre, queda de 4,7% em relação a 2013:   A mineradora Vale (VALE3, VALE... http://t.co/eEDSbfNDX1",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Itaú PN",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_462225933689454592l",
+    "exemplo": "Terceira prévia do Ibovespa (#IBOV) confirma liderança de Itaú PN (#ITUB4). http://t.co/CrYyAdgz50  (Valor)",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Rio Tint ...",
+    "UPOS": "PROPN PROPN PUNCT",
+    "exemplo_id": "dante_01_464429862426386433l",
+    "exemplo": "Concorrente da Vale diz ter bons laços com Guiné apesar de processo por Simandou: A Rio Tint... http://t.co/bcNSX0MzrQ #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "PETROBRAS ON",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_464480004689379328l",
+    "exemplo": "Petr3.SA tipo PETROBRAS ON em dezembro 28  de 2007 a cotação BOVESPA estava em minima  R$51,08 e maxima R$ 52,23, fonte Thomson Reuters.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "CPFL Energia S.A.",
+    "UPOS": "PROPN PROPN PROPN",
+    "exemplo_id": "dante_01_465869606159417344l",
+    "exemplo": "$CPFE3 - Aviso de Webcast: A CPFL Energia S.A. convida para a Webcast de sua Teleconferência sobre os http://t.co/tcYCwGCBOa",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Geral Investimentos",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_466323359324991488l",
+    "exemplo": "Geral troca EZTec por Itaú Unibanco, confira as 10 recomendações: A Geral Investimentos fez ... http://t.co/Tk3Klt4bBt #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Governo da de a Nova Caledônia",
+    "UPOS": "PROPN NA ADP DET PROPN PROPN",
+    "exemplo_id": "dante_01_467278962154942464l",
+    "exemplo": "Governo da Nova Caledônia recebe relatório da Vale sobre vazamento: Movimento ocorreu mais t... http://t.co/rtndP6NyW5 #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Agência Reguladora de Saneamento e Energia do de o Estado de São Paulo",
+    "UPOS": "PROPN PROPN ADP PROPN CCONJ PROPN NA ADP DET PROPN ADP PROPN PROPN",
+    "exemplo_id": "dante_01_468732329762893824l",
+    "exemplo": "#SBSP3 cia informou que a Agência Reguladora de Saneamento e Energia do Estado de São Paulo (Arsesp) publicou a... http://t.co/2oQxjzXDO3",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "AMBEV S.A",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_469538033432137728l",
+    "exemplo": "#ABEV3 Hoje, dia 22/05/2014, é a data limite para negociação dos direitos de subscrição da AMBEV S.A (ABEV1).... http://t.co/uUnPNVLCr0",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Banco da de a Brasil",
+    "UPOS": "PROPN NA ADP DET PROPN",
+    "exemplo_id": "dante_01_469783422538235905l",
+    "exemplo": "#BBAS3 Banco da Brasil (mensagem: 956467)  http://t.co/75T8wtmEXw",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "INSTITUICAO",
+    "entidade": "Organização Mundial de Saúde",
+    "UPOS": "PROPN PROPN ADP PROPN",
+    "exemplo_id": "dante_01_471702597414690816l",
+    "exemplo": "Organização Mundial de Saúde faz incentivo a o aumento de os impostos em o tabaco para salvar mais vidas , efeito de a notícia foi venda em a #CRUZ3",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Hillshire Brands",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_471725836199280640l",
+    "exemplo": "#JBSS3 SOBE &gt; Fitch disse hoje que a oferta de compra da Hillshire Brands pela Pilgrims Pride (PPC) é neutra para o crédito da JBS.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Pilgrims Pride",
+    "UPOS": "PROPN PROPN",
+    "exemplo_id": "dante_01_471725836199280640l",
+    "exemplo": "#JBSS3 SOBE &gt; Fitch disse hoje que a oferta de compra da Hillshire Brands pela Pilgrims Pride (PPC) é neutra para o crédito da JBS.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Gaf ...",
+    "UPOS": "PROPN PUNCT",
+    "exemplo_id": "dante_01_472001595496869889l",
+    "exemplo": "6 ações para monitorar antes da abertura do pregão desta quinta-feira: MRV, Direcional e Gaf... http://t.co/PuJj3w6njj #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "conselho da de a Vale",
+    "UPOS": "NOUN NA ADP DET PROPN",
+    "exemplo_id": "dante_01_472167110316023808l",
+    "exemplo": "Vice de o Bradesco entra para o conselho de a Vale, mais 3 empresas agitam a noite: Maior gestor... http://t.co/8UfJ7jaUiO #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ORGANIZACAO",
+    "tipo": "EMPRESA",
+    "entidade": "Massa Leve",
+    "UPOS": "PROPN ADV",
+    "exemplo_id": "dante_01_472433847343140864l",
+    "exemplo": "#JBSS3 - Cade aprova compra da Massa Leve pela JBS sem restrições http://t.co/cbOuyZdS1W",
+    "frequencia": 1
+  }
+]

@@ -1,0 +1,2549 @@
+[
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "semana passada",
+    "UPOS": "NOUN ADJ",
+    "exemplo_id": "dante_01_443012288078172160l",
+    "exemplo": "Desempenho das ações do Itaú Unibanco na semana passada:na Bovespa- ITUB4:-0,90%,ITUB3:0,58%,na NYSE–ITUB:-1,13%, Índice Bovespa: -1,80%",
+    "frequencia": 22
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "1º trimestre",
+    "UPOS": "ADJ NOUN",
+    "exemplo_id": "dante_01_451057586591506432l",
+    "exemplo": "Kroton ON ( #KROT3 ) é a ação que mais se valorizou em o 1º trimestre . http://t.co/1uSfwwIMW0",
+    "frequencia": 18
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "6 meses",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_459743147644686336l",
+    "exemplo": "@SakaBrasil2  Petrobras PETR4 capitalizada em 2010 por Lula a R$ 26,30. Últimos 6 meses...Março na bacia das almas! http://t.co/l00d2g2AtO",
+    "frequencia": 18
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "semana que vem",
+    "UPOS": "NOUN PRON VERB",
+    "exemplo_id": "dante_01_442034626115026944l",
+    "exemplo": "Gatilho position, semana que vem:   Ativo bvmf3 - Venda  - Validade 14/mar - Start 9,89 - Stop 10,45 - RP 9,33 http://t.co/YxHS4nZakh",
+    "frequencia": 12
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "nesta em esta semana",
+    "UPOS": "NA ADP DET NOUN",
+    "exemplo_id": "dante_01_443057147165700096l",
+    "exemplo": "Opinião - Ativa indica 5 ações para lucrar nesta semana: Saíram as ações da Telefônica (VIVT4), BR Malls (BRML... http://t.co/D31LHU5GMx",
+    "frequencia": 10
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "15 min",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_443749300917379072l",
+    "exemplo": "#PETR4 - 15 min (mensagem: 951348)  http://t.co/7A5UINu9Mu",
+    "frequencia": 7
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "1º tri",
+    "UPOS": "ADJ NOUN",
+    "exemplo_id": "dante_01_454642454936182785l",
+    "exemplo": "Vendas do Pão de Açúcar sobem e empresa fatura R$ 14,9 bi no 1º tri:   O Grupo Pão de Açúcar (PCAR4) anunciou... http://t.co/VS3gtX1eQi",
+    "frequencia": 7
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "neste em este mês",
+    "UPOS": "NA ADP DET NOUN",
+    "exemplo_id": "dante_01_441957488900857857l",
+    "exemplo": "TOV aposta em blue chips, confira 7 ações para comprar neste mês: Os ativos que permanecem n... http://t.co/XKwFI1bsEg #infomoney #vale5",
+    "frequencia": 6
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "1º trimestre de 2014",
+    "UPOS": "ADJ NOUN ADP NUM",
+    "exemplo_id": "dante_01_459305435078881281l",
+    "exemplo": "$BBDC3 - Resultados do Bradesco no 1º trimestre de 2014 http://t.co/b7Vm9pec0B",
+    "frequencia": 6
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "1 mês",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_443051716804882432l",
+    "exemplo": "Demorou 1 mês a mais que o previsto, mas o #ibovespa chegou nos 45 mil pontos e $PETR4 beliscou os R$12,90. Que situação.",
+    "frequencia": 5
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "essa semana",
+    "UPOS": "DET NOUN",
+    "exemplo_id": "dante_01_447173786635620352l",
+    "exemplo": "A #petr4 petrobrás voou essa semana… Só porque virou uma #pennystocks a o meu ver...",
+    "frequencia": 5
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "fevereiro de 2003",
+    "UPOS": "NOUN ADP NUM",
+    "exemplo_id": "dante_01_449326477944049664l",
+    "exemplo": "@marisascruz @StreetTed Precisa saber-se mais de que... Em fevereiro de 2003 inicio de Lula pós FHC a #PETR4 valia R$ 46,56.. fev 14 R$13,25",
+    "frequencia": 5
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "10 Mar",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_443200747857903616l",
+    "exemplo": "Petrobras confirma precificação de títulos de US$8,5 bilhões: SÃO PAULO, 10 Mar (Reuters) - A Petrobras PETR4.... http://t.co/KX8B34jKwN",
+    "frequencia": 4
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "nessa em essa semana",
+    "UPOS": "NA ADP DET NOUN",
+    "exemplo_id": "dante_01_446019603823476736l",
+    "exemplo": "Concórdia recomenda 15 papéis para investir ainda nessa semana, confira: Apenas uma das cart... http://t.co/0AEpn96biL #infomoney #vale5",
+    "frequencia": 4
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "fev 14",
+    "UPOS": "NOUN NUM",
+    "exemplo_id": "dante_01_449326477944049664l",
+    "exemplo": "@marisascruz @StreetTed Precisa saber-se mais de que... Em fevereiro de 2003 inicio de Lula pós FHC a #PETR4 valia R$ 46,56.. fev 14 R$13,25",
+    "frequencia": 4
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "24/04/2009 até hoje",
+    "UPOS": "NUM ADP ADV",
+    "exemplo_id": "dante_01_453151387845951488l",
+    "exemplo": "Desde 24/04/2009 até hoje Ibovespa +11,58% PETR4 - 47,7% EXXON +45,85% DJ + 111,06%",
+    "frequencia": 4
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "ano passado",
+    "UPOS": "NOUN ADJ",
+    "exemplo_id": "dante_01_454626132525326336l",
+    "exemplo": "Receita líquida do Pão de Açúcar (PCAR4) sobe 11,9% no 1º trimestre sobre igual período do ano passado e atingiu R$ 14,97 bilhões",
+    "frequencia": 4
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "primeiro trimestre de 2014",
+    "UPOS": "ADJ NOUN ADP NUM",
+    "exemplo_id": "dante_01_459285851332419584l",
+    "exemplo": "O Bradesco anunciou lucro líquido de R$ 3,443 bilhões em o primeiro trimestre de 2014, alta de 18% ante o mesmo período de o ano passado. #BBDC4",
+    "frequencia": 4
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "sexta-feira , 28 de fevereiro",
+    "UPOS": "NOUN PUNCT NUM ADP NOUN",
+    "exemplo_id": "dante_01_441014389496619009l",
+    "exemplo": "#VALE5 - Análise #Ichimoku - pregão de sexta-feira, 28 de fevereiro. http://t.co/kEreB1xgU4",
+    "frequencia": 3
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "sexta passada",
+    "UPOS": "NOUN ADJ",
+    "exemplo_id": "dante_01_441030534467055617l",
+    "exemplo": "Em a #PETR4 fizemos em a sexta passada uma Sub Onda 5 de fundo e em o dia 05/02/14uma Onda 3 de fundo alvos 15,44 16,40 http://t.co/5DPBQCulWr",
+    "frequencia": 3
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "esta semana",
+    "UPOS": "DET NOUN",
+    "exemplo_id": "dante_01_441250681228255232l",
+    "exemplo": "Ativa indica 5 papéis para comprar ainda esta semana: Saíram as ações da Vale (VALE5), ... http://t.co/LA69RzFm6v http://t.co/Zcsm6jYXyW",
+    "frequencia": 3
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "Em este mês",
+    "UPOS": "ADP DET NOUN",
+    "exemplo_id": "dante_01_441552736673218561l",
+    "exemplo": "10 ações para ganhar dinheiro em março, segundo a Um Investimentos: Neste mês, a corretora o... http://t.co/sUVW1ac2LX #infomoney #vale5",
+    "frequencia": 3
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "desde 2007",
+    "UPOS": "ADP NUM",
+    "exemplo_id": "dante_01_441891559420600321l",
+    "exemplo": "Dívida da Petrobras aumenta seis vezes desde 2007 e atinge R$ 268 bilhões http://t.co/QiI2R71GsW via @UOLEconomia #UOL #PETR4",
+    "frequencia": 3
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "novembro de 2013",
+    "UPOS": "NOUN ADP NUM",
+    "exemplo_id": "dante_01_442084125189885953l",
+    "exemplo": "Após o pico no início de novembro de 2013  #VALE5 já devolveu quase 80% da alta iniciada em  julho do mesmo ano.  http://t.co/1kXQTedmQ8",
+    "frequencia": 3
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "4º tri",
+    "UPOS": "ADJ NOUN",
+    "exemplo_id": "dante_01_443928019783405568l",
+    "exemplo": "#LAME4 - Lojas Americanas tem lucro de R$ 273,2 mi no 4º tri - http://t.co/gWj9FjnUUU",
+    "frequencia": 3
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "10 anos",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_445675036763230208l",
+    "exemplo": "Petrobras (#PETR), Rossi (#RSID3) e BB (#BBAS) batem mínimas de até 10 anos. http://t.co/O0X4s9y6Ab    (@oswaldosena_1)",
+    "frequencia": 3
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "3 dias",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_446649086075469824l",
+    "exemplo": "#PETR4 R$13,68 ! o.O (3 dias seguidos de arrancada já !)",
+    "frequencia": 3
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "5 anos",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_448086501201821697l",
+    "exemplo": "@lobaoeletrico 05 anos atras preço da ação era 40 reias hj 14 reais http://t.co/NMpAwhaLXd",
+    "frequencia": 3
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "primeiro trimestre",
+    "UPOS": "ADJ NOUN",
+    "exemplo_id": "dante_01_455530921698267137l",
+    "exemplo": "Apesar do pessimismo generalizado a seu respeito, a Usiminas surpreenderia favoravelmente no resultado do primeiro trimestre. #usim5",
+    "frequencia": 3
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "11 horas",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_456430377955889152l",
+    "exemplo": "Nestor Cerveró vai falar agora, 11 horas sobre escândalos da PETR4. Que comece a volatilidade!",
+    "frequencia": 3
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "março de 2014",
+    "UPOS": "NOUN ADP NUM",
+    "exemplo_id": "dante_01_459291618378805249l",
+    "exemplo": "Os Ativos Totais, em março de 2014, registraram saldo de R$ 922,229 bilhões, crescimento de 3,1% em relação ao mesmo período de 2013. #BBDC4",
+    "frequencia": 3
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "ontem para hoje",
+    "UPOS": "ADV ADP ADV",
+    "exemplo_id": "dante_01_468732080285687808l",
+    "exemplo": "#VALE5 O minério se ferrou seguiu com sua trajetória de queda e recuou 1% de ontem para hoje, sendo cotado no... http://t.co/BltqGhvp33",
+    "frequencia": 3
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "ultima sexta-feira",
+    "UPOS": "ADJ NOUN",
+    "exemplo_id": "dante_01_443015427728228352l",
+    "exemplo": "#VALE5: O preço do minério de ferro recuou 8,3% em relação a ultima sexta-feira para US$ 104,7 a tonelada no... http://t.co/5EhMLg8rks",
+    "frequencia": 2
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "3 meses",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_443398937169649664l",
+    "exemplo": "Multas de a Receita a a Petrobras #PETR4 em 3 meses somam R$ 8,769 bi http://t.co/rGxSCA1zsP",
+    "frequencia": 2
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "1 de Abril",
+    "UPOS": "NUM ADP NOUN",
+    "exemplo_id": "dante_01_444121511981760512l",
+    "exemplo": "Reunião com a Eletrobras na Apimec Rio no dia 01 de Abril. Coincidentemente, no dia da mentira. Bela escolha, combina com a empresa. #ELET6",
+    "frequencia": 2
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "2 …",
+    "UPOS": "NUM PUNCT",
+    "exemplo_id": "dante_01_446297814008856576l",
+    "exemplo": "RT @chrinvestor: Imposto sobre bebidas vai subir em Abril. O setor foi um dos escolhidos para ajudar o governo a atingir a meta fiscal em 2…",
+    "frequencia": 2
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "1 semana",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_446613472970047488l",
+    "exemplo": "Vcs sabem como o PT rebate um escândalo igual a esse da Petr4?! Ñ?! Com outro escândalo no prazo máx de 1semana #ModusOperandiPetista",
+    "frequencia": 2
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "3º dia",
+    "UPOS": "ADJ NOUN",
+    "exemplo_id": "dante_01_446652969019523072l",
+    "exemplo": "de novo, novamente, outra vez, estão atribuindo a alta de a #PETR4 a uma melhora de a oposição em a pesquisa IBOPE ... é o 3º dia que falam isso",
+    "frequencia": 2
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "90 dias",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_446682542805356545l",
+    "exemplo": "@ClaudioRAE tô achando mais negócio vender PETR4 e comprar CIEL3, que daqui a 90 dias vai valorizar bastante.",
+    "frequencia": 2
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "60 minutos",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_448866856779010049l",
+    "exemplo": "Gráfico da #PETR4 de 60 minutos. Momento delicado... ou bom para venda? http://t.co/vYuBhgm0pA",
+    "frequencia": 2
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "fev 2003",
+    "UPOS": "NOUN NUM",
+    "exemplo_id": "dante_01_449269295168888832l",
+    "exemplo": "@Ezequiasns @Bluesette22 Quem nunca comeu melado... quando comeu lambuzou-se... Queremos nossas ações #PETR4 a R$ 46,56 ref. fev 2003 =FHC.",
+    "frequencia": 2
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "28/03/2014 17:03",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_449657223124631552l",
+    "exemplo": "Uma de as corretoras q mais compraram a ação PETR4 de a Petrobras:'Dados recebidos em: 28/03/2014 17:03: Goldman Sachs'- http://t.co/Ok8BMpSrZw",
+    "frequencia": 2
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "este mês",
+    "UPOS": "DET NOUN",
+    "exemplo_id": "dante_01_451423707416645632l",
+    "exemplo": "PAX indica compra de Vale, Cielo, Gerdau e outras 7 ações: Neste mês, entraram os papéis da ... http://t.co/ou0J9kQxK5 #infomoney #vale5",
+    "frequencia": 2
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "30/04/2014 - 10h00",
+    "UPOS": "NUM PUNCT NOUN",
+    "exemplo_id": "dante_01_453539784531927041l",
+    "exemplo": "$SBSP3 - Sabesp (sbsp-nm)-ago/e-30/04/2014 - 10h00 - Aumento Capital Sem Emissao De Acoes http://t.co/jpD54JYXa4",
+    "frequencia": 2
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "29/04/2014 - 15h00",
+    "UPOS": "NUM PUNCT NOUN",
+    "exemplo_id": "dante_01_453914751001976832l",
+    "exemplo": "$BBAS3 - Banco De o Brasil (bbas-nm)   Ago/e - 29/04/2014 - 15h00 - Alteracao Estatutaria http://t.co/uUll5L7MIh",
+    "frequencia": 2
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "30 de abril",
+    "UPOS": "NUM ADP NOUN",
+    "exemplo_id": "dante_01_455822808833331202l",
+    "exemplo": "#VALE3 #VALE5 - Vale distribuirá aos seus acionistas R$ 0,899 por ação a partir de 30 de abril - http://t.co/311eZTif0o",
+    "frequencia": 2
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "30/04/2014 - 10h E 11h",
+    "UPOS": "NUM PUNCT NOUN CCONJ NOUN",
+    "exemplo_id": "dante_01_459398634690600960l",
+    "exemplo": "$EVEN3 - Even (even-nm)-ago/e-30/04/2014-10h E 11h (respectivamente) Distr. De Divindendo http://t.co/3VhamlAjCu",
+    "frequencia": 2
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "3 minutos",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_459419985748570112l",
+    "exemplo": "Vale ganha recurso contra taxação estrangeira, ação dispara 2% em 3 minutos: Mais informaçõe... http://t.co/U5sgBGJxyN #infomoney #vale5",
+    "frequencia": 2
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "Hoje , às a as 9h",
+    "UPOS": "ADV PUNCT NA ADP DET NOUN",
+    "exemplo_id": "dante_01_459642242068922368l",
+    "exemplo": "Hoje, às 9h, o Bradesco realizará teleconferência sobre os resultados do 1T14. Acesse http://t.co/FHE37z52Q2 e participe! #BBDC4",
+    "frequencia": 2
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "quarta-feira , 21 de maio",
+    "UPOS": "NOUN PUNCT NUM ADP NOUN",
+    "exemplo_id": "dante_01_469219845238976512l",
+    "exemplo": "#VALE5 - Análise #Ichimoku - pregão de quarta-feira, 21 de maio. http://t.co/hWULGbJ1ps",
+    "frequencia": 2
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "sexta-feira , 23 de maio",
+    "UPOS": "NOUN PUNCT NUM ADP NOUN",
+    "exemplo_id": "dante_01_469950473437741056l",
+    "exemplo": "#VALE5 - Análise #Ichimoku - pregão de sexta-feira, 23 de maio. http://t.co/usO61aC927",
+    "frequencia": 2
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "12 de junho",
+    "UPOS": "NUM ADP NOUN",
+    "exemplo_id": "dante_01_472295032876437504l",
+    "exemplo": "“@topBovespa: BM&FBovespa (#BVMF3) fecha em 12 de junho e encurta pregão em demais dias de jogos de o Brasil. http://t.co/HS87wJaVfG",
+    "frequencia": 2
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "Fevereiro 2014",
+    "UPOS": "NOUN NUM",
+    "exemplo_id": "dante_01_441058259676303361l",
+    "exemplo": "Fevereiro 2014: Ainda não é o momento de entrar: VALE5, CSNA3 ou PETR4. Tendência e resultados favoráveis: ESTC3, PSSA3, EMBR3 e WEGE3.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "27/02/2014 10:41",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441215587843178496l",
+    "exemplo": "BBAS3 comprar por R$ 20,05 indicado em 27/02/2014 10:41 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "17/02/2014 10:33",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441215631241641984l",
+    "exemplo": "BISA3 comprar por R$ 1,47 indicado em 17/02/2014 10:33 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "19/02/2014 10:14",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441215669518872576l",
+    "exemplo": "BRAP4 vender por R$ 22,25 indicado em 19/02/2014 10:14 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "18/02/2014 16:36",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441215713227718656l",
+    "exemplo": "BRKM5 vender por R$ 17,82 indicado em 18/02/2014 16:36 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "18/02/2014 15:07",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441215788083458048l",
+    "exemplo": "CSNA3 vender por R$ 10,86 indicado em 18/02/2014 15:07 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "26/02/2014 13:40",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441215825853169664l",
+    "exemplo": "ELET3 comprar por R$ 4,85 indicado em 26/02/2014 13:40 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "27/02/2014 13:41",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441215859554414593l",
+    "exemplo": "ELET6 comprar por R$ 9,06 indicado em 27/02/2014 13:41 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "28/02/2014 11:33",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441215891921858561l",
+    "exemplo": "ELPL4 vender por R$ 7,96 indicado em 28/02/2014 11:33 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "25/02/2014 10:30",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441215926608736256l",
+    "exemplo": "ESTC3 comprar por R$ 20,63 indicado em 25/02/2014 10:30 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "26/02/2014 11:21",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441215956757405697l",
+    "exemplo": "GFSA3 comprar por R$ 3,09 indicado em 26/02/2014 11:21 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "03/01/2014 15:26",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441215991377182720l",
+    "exemplo": "GGBR4 vender por R$ 17,84 indicado em 03/01/2014 15:26 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "03/01/2014 15:08",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441216020401762305l",
+    "exemplo": "GOAU4 vender por R$ 22,38 indicado em 03/01/2014 15:08 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "28/02/2014 14:30",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441216053905850368l",
+    "exemplo": "GOLL4 vender por R$ 11,05 indicado em 28/02/2014 14:30 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "28/02/2014 13:26",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441216085618995201l",
+    "exemplo": "ITUB4 vender por R$ 31,16 indicado em 28/02/2014 13:26 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "28/02/2014 10:18",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441216119592869888l",
+    "exemplo": "JBSS3 comprar por R$ 7,69 indicado em 28/02/2014 10:18 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "20/02/2014 12:11",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441216148625833984l",
+    "exemplo": "KROT3 comprar por R$ 39,52 indicado em 20/02/2014 12:11 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "16/01/2014 15:12",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441216204091322368l",
+    "exemplo": "LLXL3 vender por R$ 1,00 indicado em 16/01/2014 15:12 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "21/02/2014 12:04",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441216288275173376l",
+    "exemplo": "MRFG3 comprar por R$ 3,90 indicado em 21/02/2014 12:04 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "28/02/2014 13:33",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441216321779298304l",
+    "exemplo": "MRVE3 comprar por R$ 8,10 indicado em 28/02/2014 13:33 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "17/02/2014 11:49",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441216406466486272l",
+    "exemplo": "OIBR4 vender por R$ 4,27 indicado em 17/02/2014 11:49 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "27/02/2014 15:46",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441216450670243841l",
+    "exemplo": "PDGR3 comprar por R$ 1,56 indicado em 27/02/2014 15:46 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "19/02/2014 10:11",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441216481817149440l",
+    "exemplo": "PETR3 vender por R$ 13,21 indicado em 19/02/2014 10:11 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "17/02/2014 16:44",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441216514729848832l",
+    "exemplo": "PETR4 vender por R$ 14,38 indicado em 17/02/2014 16:44 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "27/02/2014 13:29",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441216545230823424l",
+    "exemplo": "RSID3 comprar por R$ 1,75 indicado em 27/02/2014 13:29 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "11/02/2014 12:26",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441216604987068417l",
+    "exemplo": "USIM5 vender por R$ 11,64 indicado em 11/02/2014 12:26 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "28/02/2014 11:57",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441216632107438080l",
+    "exemplo": "VALE3 vender por R$ 32,82 indicado em 28/02/2014 11:57 http://t.co/zJRs3Eeyz9",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "Prazo De Preferencia",
+    "UPOS": "NOUN ADP NOUN",
+    "exemplo_id": "dante_01_441236209134993410l",
+    "exemplo": "$MRFG3 - Marfrig (mrfg-nm)-encerramento Prazo De Preferencia /inicio De o Periodo De Sobras http://t.co/tWzEE1HdrT",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "Periodo De Sobras",
+    "UPOS": "NOUN ADP NOUN",
+    "exemplo_id": "dante_01_441236209134993410l",
+    "exemplo": "$MRFG3 - Marfrig (mrfg-nm)-encerramento Prazo De Preferencia /inicio De o Periodo De Sobras http://t.co/tWzEE1HdrT",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "05/03/2014 13:29",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441251369304227840l",
+    "exemplo": "MRVE3 vender a R$ 7.99 indicado em 05/03/2014 13:29 e finalizou a compra com resultado de R$ -0.11 ou -1.36 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "05/03/2014 14:18",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441261378905841665l",
+    "exemplo": "PDGR3 vender a R$ 1.47 indicado em 05/03/2014 14:18 e finalizou a compra com resultado de R$ -0.09 ou -5.77 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "5 há 8 semanas",
+    "UPOS": "NUM VERB NUM NOUN",
+    "exemplo_id": "dante_01_441266200925188096l",
+    "exemplo": "caramba ... a #PETR4 tá com o IFR abaixo de 5 há 8 semanas !! o.O (nunca vi isso antes ...)",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "05/03/2014 14:56",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_441270974122827776l",
+    "exemplo": "JBSS3 vender a R$ 7.39 indicado em 05/03/2014 14:56 e finalizou a compra com resultado de R$ -0.30 ou -3.90 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "200 meses",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_441299691763159040l",
+    "exemplo": "caramba ... hoje a #PETR4 tocou (na verdade está nela ...) a média de 200 meses !!!!! o.O Isso nunca aconteceu !!!",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "05/03/14 - 17:19",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_441306912231923713l",
+    "exemplo": "05/03/14 - 17:19: Maiores Altas: BRFS3 4,38% R$44,80, ALLL3 2,81% R$6,94, KROT3 2,76% R$44,91, GFSA3 2,42% R$3,38, ECOR3 2,18% R$12,62.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "05/03/14 - 17:20",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_441307148849405952l",
+    "exemplo": "05/03/14- 17:20 : Maiores Baixas : BRAP4 - 4,50 % R$ 20,35 , RSID3 - 4,09 % R$ 1,64 , VALE5 - 3,50 % R$ 28,07 , CSNA3 - 3,40 % R$ 9,60 , BRKM5 - 3,28 % R$ 15,62 .",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "último trimestre de 2013",
+    "UPOS": "ADJ NOUN ADP NUM",
+    "exemplo_id": "dante_01_441412138692018176l",
+    "exemplo": "RT @EconomiaBr: #GFSA3 - Gafisa tem lucro líquido de R$ 921,3 milhões no último trimestre de 2013 - http://t.co/cjoaqZ1Qeu",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "31/03/14 - 10h00",
+    "UPOS": "NUM PUNCT NOUN",
+    "exemplo_id": "dante_01_441566478580875265l",
+    "exemplo": "$CIEL3 - Cielo (ciel-nm)-ago/e -31/03/2014-10h00-bonificacao/alteracao Do Estatuto Social http://t.co/ZODi2E6KmJ",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "desde 2005",
+    "UPOS": "ADP NUM",
+    "exemplo_id": "dante_01_441673990776823808l",
+    "exemplo": "@petrobras Vcs não enganam seus trouxas! recorde obtido e sua ação hj esta em 13,49 mínima desde 2005 http://t.co/BgLmYn5LsL",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "30 de março",
+    "UPOS": "NUM ADP NOUN",
+    "exemplo_id": "dante_01_441913277376110592l",
+    "exemplo": "Vale (VALE5) – Adiou para 30 de março o prazo para a decisão sobre o projeto de exploração de potássio. #VisaoAtiva - Marginalmente negativa",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "31/03 às a as 10:00 h",
+    "UPOS": "NUM NA ADP DET NUM NOUN",
+    "exemplo_id": "dante_01_441945346391166976l",
+    "exemplo": "#IBOV #CIEL3 Cielo realiza assembleia geral ordinária e extraordinária dia 31/03 às 10:00h. http://t.co/bI6KFrXnkU #BR",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "Semana que vem",
+    "UPOS": "NOUN PRON VERB",
+    "exemplo_id": "dante_01_442018542826045440l",
+    "exemplo": "FAÇAM SUAS APOSTAS! Que dia PETR4 vai a $13? Hoje? Nunca? Semana que vem? Dê seu palpite, é grátis!",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "07/03/2014 - 17:19",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_442031629138415617l",
+    "exemplo": "07/03/14 - 17:19: Maiores Altas: HYPE3 1,99% R$14,81, VIVT4 1,28% R$44,76, TIMP3 0,78% R$11,61, NATU3 0,28% R$35,80, UGPA3 0,24% R$52,38.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "07/03/2014 - 17:20",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_442031947838418944l",
+    "exemplo": "07/03/14 - 17:20: Maiores Baixas: USIM5 -6,33% R$9,02, LIGT3 -6,04% R$15,85, CESP6 -5,09% R$21,25, CSNA3 -4,97% R$9,16, ELET6 -4,80% R$8,51.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "dia 6",
+    "UPOS": "NOUN NUM",
+    "exemplo_id": "dante_01_442261039695290368l",
+    "exemplo": "BBAS3 confirma engolfo de baixa do dia 6. O que significa e como identificar esse padrão dos candlesticks. Assista! http://t.co/EhHH5Yl5sY",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "sexta dia 0/03/14",
+    "UPOS": "NOUN NOUN NUM",
+    "exemplo_id": "dante_01_442886390515507200l",
+    "exemplo": "Confirmou na sexta dia 0/03/14 na #PETR4 uma Onda 3 de fundo e projetando repiques para 14,16 , 15,10 e 15,90 http://t.co/Cw83FVFDtE",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "nesta em esta segunda",
+    "UPOS": "NA ADP DET NOUN",
+    "exemplo_id": "dante_01_442887957482311681l",
+    "exemplo": "Dia importante para a #VALE5 nesta segunda , pois fizemos uma Onda 5 de fundo nesta sexta 07/03/14 alvos 29,11 31,25 http://t.co/tbsrWTAuHr",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "sexta 07/03/2014",
+    "UPOS": "NOUN NUM",
+    "exemplo_id": "dante_01_442887957482311681l",
+    "exemplo": "Dia importante para a #VALE5 nesta segunda , pois fizemos uma Onda 5 de fundo nesta sexta 07/03/14 alvos 29,11 31,25 http://t.co/tbsrWTAuHr",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "esse ano",
+    "UPOS": "DET NOUN",
+    "exemplo_id": "dante_01_443008572704976896l",
+    "exemplo": "Analista de a TOV espera 100% de alta para a #PETR4 esse ano! Quem concorda?! Eu to fora! rsrs",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "sexta-feira , dia 07/03",
+    "UPOS": "NOUN PUNCT NOUN NUM",
+    "exemplo_id": "dante_01_443011058765025281l",
+    "exemplo": "A LIGHT S.A. fechou a sexta-feira, dia 07/03, ao preço de R$ 15,87 (-5,93%) com volume de R$ 18,65 mm. $LIGT3",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "mais de 5 meses",
+    "UPOS": "ADV ADP NUM NOUN",
+    "exemplo_id": "dante_01_443019898613030914l",
+    "exemplo": "Ameaça chinesa leva siderúrgicas e Vale a mínimas em mais de 5 meses: Nesta sessão, ações re... http://t.co/A4BqAgI8fY #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "entre sexta e hj",
+    "UPOS": "ADP NOUN CCONJ ADV",
+    "exemplo_id": "dante_01_443037303657988096l",
+    "exemplo": "Infelizmente não conseguir montar a Streaddle com opções da #PETR4 queria ter montado entre sexta e hj, agora fica pra próxima..",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "12:22 hs",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_443045777674625024l",
+    "exemplo": "Petrobrás afunda -2,25% operando abaixo de R$ 13,00. Ações preferenciais de a estatal (PETR4) registraram mínima de R$ 12,91. (12:22hs)",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "hoje ( 10/03/2014 )",
+    "UPOS": "ADV PUNCT NUM PUNCT",
+    "exemplo_id": "dante_01_443078749161267200l",
+    "exemplo": "@marthaeferreira @reinaldoazevedo Por ingerências deste governo clePTocrata, as Ações PETR4 estão, hoje (10/03/14), com valores de Março/05?",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "Três meses antes",
+    "UPOS": "NUM NOUN ADV",
+    "exemplo_id": "dante_01_443083439202656257l",
+    "exemplo": "Em 3/12 o @nahasbap 'previu' que PETR4 iria 'visitar' os 12. Três meses antes! Esse cara tem informação privilegiada, kkkk... retuíto:",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "15:13 hs",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_443087273215946752l",
+    "exemplo": "Dados da economia da China fazem ações da Vale Mineradora (VALE5), desabarem nesta sessão em -3,80% cotadas em R$ 26,06 (15:13hs)",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "3 anos atrás",
+    "UPOS": "NUM NOUN ADV",
+    "exemplo_id": "dante_01_443099054164439040l",
+    "exemplo": "3 anos atrás um pessoal aí me disse que PETR4 a R$ 17,00 era de graça. hummmmm",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "02/04/2014 - 15h",
+    "UPOS": "NUM PUNCT NOUN",
+    "exemplo_id": "dante_01_443109051715817472l",
+    "exemplo": "$PETR3 - Petrobras (petr) - Ago/e - 02/04/2014 - 15h - Distr. De Jcp / Aumento De o Capital http://t.co/vfiIT5AhIW",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "nesta em esta segunda-feira ( 10 )",
+    "UPOS": "NA ADP DET NOUN PUNCT NUM PUNCT",
+    "exemplo_id": "dante_01_443125288709279744l",
+    "exemplo": "Petrobras (PETR4) lançou nesta segunda-feira (10) oferta de US$ 8,5 bilhões em bônus, em uma operação em seis etapas http://t.co/it9boXQdSp",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "Ano passado",
+    "UPOS": "NOUN ADJ",
+    "exemplo_id": "dante_01_443178803557580800l",
+    "exemplo": "Ano passado eu falei que até o final de 2104 #PETR4 estaria abaixo de R$ 10,00 mas acho que errei , não vai demorar tanto .",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "nesta em esta segund",
+    "UPOS": "NA ADP DET NOUN",
+    "exemplo_id": "dante_01_443226250736177152l",
+    "exemplo": "Petrobras confirma precificação de títulos de US$ 8,5 bi: A Petrobras PETR4.SA PETR3.SA confirmou nesta segund... http://t.co/GpEKRSKbt4",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "neste em este ano",
+    "UPOS": "NA ADP DET NOUN",
+    "exemplo_id": "dante_01_443401965612322816l",
+    "exemplo": "#MRFG3 - Marfrig estuda abrir capital de subsidiárias no exterior neste ano - http://t.co/FP8QGNti2J",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "25 de fevereiro",
+    "UPOS": "NUM ADP NOUN",
+    "exemplo_id": "dante_01_443463813623738368l",
+    "exemplo": "#IBOV #BRML3 BR Malls divulga ata da reunião do conselho de administração realizada dia 25 de fevereiro. http://t.co/7MpofZh7wj",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "6 anos",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_443519036333514752l",
+    "exemplo": "RT @Ricamconsult: Há 6 anos, a #PETR4 valia R$510 bilhões. Hoje, vale R$165 bilhões e tem R$300 bilhões em dívidas. http://t.co/KZ7ujAkKYn",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "desde AGOSTO",
+    "UPOS": "ADP NOUN",
+    "exemplo_id": "dante_01_443741929025835008l",
+    "exemplo": "#VALE5 lembram daquele GAP que estou alertando desde AGOSTO, pois é ... foi fechado hoje. Agora fica menos perigoso posição na VALE5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "12/03/2014 10:44",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_443744305128427520l",
+    "exemplo": "ITUB4 vender a R$ 30.39 indicado em 12/03/2014 10:44 e finalizou a compra com resultado de R$ -0.46 ou -1.49 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "12/03/2014 14:30",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_443801182675689473l",
+    "exemplo": "MRVE3 comprar a R$ 8.17 indicado em 12/03/2014 14:30 e finalizou a venda com resultado de R$ -0.06 ou -0.73 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "12/03/2014 15:26",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_443815279802724352l",
+    "exemplo": "ELET3 comprar a R$ 4.93 indicado em 12/03/2014 15:26 e finalizou a venda com resultado de R$ -0.11 ou -2.23 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "12/03/2014 16:21",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_443829193080844288l",
+    "exemplo": "ELET6 comprar a R$ 8.93 indicado em 12/03/2014 16:21 e finalizou a venda com resultado de R$ -0.29 ou -3.25 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "17/04/2014 - 11h00",
+    "UPOS": "NUM PUNCT NOUN",
+    "exemplo_id": "dante_01_443844230512144385l",
+    "exemplo": "$LREN3 - Lojas Renner ( lren-nm ) - Ago - 17/04/2014 - 11h00 - Dividendos http://t.co/3PJlEQcEpB",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "nesta em esta quarta-feira",
+    "UPOS": "NA ADP DET NOUN",
+    "exemplo_id": "dante_01_443853161887838208l",
+    "exemplo": "Dia positivo? Veja 15 ações que caíram forte nesta quarta-feira: Enquanto Ibovespa registrou... http://t.co/x8XSqSj3tU #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "4° Trimestre",
+    "UPOS": "ADJ NOUN",
+    "exemplo_id": "dante_01_444096098580582400l",
+    "exemplo": "$LAME4 - Aviso de Webcast: Lojas Americanas anuncia Webcast sobre os Resultados do 4° Trimestre e do ano de http://t.co/S60WL12Jlo",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "13/03/2014 10:42",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_444106491218632704l",
+    "exemplo": "ELPL4 comprar a R$ 8.05 indicado em 13/03/2014 10:42 e finalizou a venda com resultado de R$ -0.09 ou -1.12 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "13/03/2014 11:22",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_444116194782871552l",
+    "exemplo": "KROT3 vender a R$ 43.33 indicado em 13/03/2014 11:22 e finalizou a compra com resultado de R$ -0.21 ou -0.48 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "13/03/2014 13:39",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_444150753436139520l",
+    "exemplo": "MRVE3 vender a R$ 8.28 indicado em 13/03/2014 13:39 e finalizou a compra com resultado de R$ 0.11 ou 1.35 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "200 anos",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_444167405984833537l",
+    "exemplo": "Ibovespa vai mesmo nos 44.000 pontos 'for while'. Daqui a 200 anos qdo o PT sair do poder ela deve subir, ibov petr4 vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "13/03/2014 15:38",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_444180742932017152l",
+    "exemplo": "MRVE3 comprar a R$ 8.33 indicado em 13/03/2014 15:38 e finalizou a venda com resultado de R$ -0.05 ou -0.60 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "5 min",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_444196510654533633l",
+    "exemplo": "fechando um unico kandle acima de 3,14 da start na petr4, no 5 min",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "14/03/2014 10:14",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_444461550502690817l",
+    "exemplo": "MRVE3 vender a R$ 7.86 indicado em 14/03/2014 10:14 e finalizou a compra com resultado de R$ -0.47 ou -5.64 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "14/03/2014 e 14/04/2014",
+    "UPOS": "NUM CCONJ NUM",
+    "exemplo_id": "dante_01_444495896227885056l",
+    "exemplo": "#CSNA3 Programa de Recompra de acoes ate 70.205.661 acoes. Prazo para a realização das operações de 14/03/2014 e 14/04/2014.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "14/03/2014 12:33",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_444496479131287552l",
+    "exemplo": "USIM5 comprar a R$ 9.13 indicado em 14/03/2014 12:33 e finalizou a venda com resultado de R$ 2.51 ou 27.49 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "31 de março às a as 10:00 h",
+    "UPOS": "NUM ADP NOUN NA ADP DET NUM NOUN",
+    "exemplo_id": "dante_01_444496916643315712l",
+    "exemplo": "#BOVESPA #CIEL3 Cielo realiza assembleia geral ordinária e extraordinária dia 31 de março às 10:00h. http://t.co/6Mj7wclH1w",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "14/03/2014 13:06",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_444504826844811264l",
+    "exemplo": "ELPL4 vender a R$ 7.68 indicado em 14/03/2014 13:06 e finalizou a compra com resultado de R$ -0.37 ou -4.60 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "14/03/2014 16:50",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_444561188731756545l",
+    "exemplo": "KROT3 comprar a R$ 43.65 indicado em 14/03/2014 16:50 e finalizou a venda com resultado de R$ -0.32 ou -0.73 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "14/03/2014 - 17:18",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_444568355962634240l",
+    "exemplo": "14/03/14 - 17:18: Maiores Altas: CSNA3 12,67% R$9,69, USIM5 5,59% R$9,06, ALLL3 4,57% R$7,10, BISA3 2,10% R$1,46, GGBR4 1,59% R$14,09.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "14/03/2014 - 17:19",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_444568490142216192l",
+    "exemplo": "14/03/14 - 17:19:Maiores Baixas: MRVE3 -12,50% R$7,35, DASA3 -9,67% R$15,13, CMIG4 -5,69% R$12,94, GFSA3 -4,76% R$3,00, ELPL4 -4,03% R$7,62.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "8 anos",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_444585279593394176l",
+    "exemplo": "#petr4 já fazem quase 8 anos q eu lido com a bolsa. Vi a petr4 em 50. Ouvi o Ricam dizer q o ibov ia a 200. Mas petr4 a 12 pila é histórico!",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "9 anos",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_444585471096938497l",
+    "exemplo": "@joseserra_ Petr4 é investimento pra LP, depois de 9 anos, voltou ao preço de 2005, milhares de trabalhadores enganados com o FGTS.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "16 3 14",
+    "UPOS": "NUM NUM NUM",
+    "exemplo_id": "dante_01_445358204709781504l",
+    "exemplo": "Curso de aplicação em a bolsa de valores Probabilidades de a PETR4 VALE5 DJI e EURUSD 16 03 14: http://t.co/6FJwSFd7d3 via @YouTube",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "14 de março",
+    "UPOS": "NUM ADP NOUN",
+    "exemplo_id": "dante_01_445519322384171008l",
+    "exemplo": "#VALE5 - Análise #Ichimoku - pregão de sexta-feira, 14 de março. http://t.co/07aH70ZkPX",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "17/03/2014 10:48",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_445557247364829184l",
+    "exemplo": "GOLL4 comprar a R$ 10.19 indicado em 17/03/2014 10:48 e finalizou a venda com resultado de R$ 0.86 ou 8.44 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "17/03/2014 11:03",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_445560979867578369l",
+    "exemplo": "ITUB4 comprar a R$ 29.82 indicado em 17/03/2014 11:03 e finalizou a venda com resultado de R$ 0.57 ou 1.91 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "24 minutos",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_445584702460944384l",
+    "exemplo": "Temos 24 minutos até o prazo final para o exercicio e termino da série C de opções. e Petr4 nos R$ 12,80 isso quase elimina exercicio na C13",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "outubro de 2013",
+    "UPOS": "NOUN ADP NUM",
+    "exemplo_id": "dante_01_445614082050519040l",
+    "exemplo": "@ferrisss Eu, em outubro de 2013 disse que #PETR4 estaria abaixo de 10,00 antes de acabar 2104. Errei feio, acontecerá antes de junho. rsrs",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "10ª semana",
+    "UPOS": "ADJ NOUN",
+    "exemplo_id": "dante_01_445642013623726081l",
+    "exemplo": "é ... lá vamos nós para a 10ª semana com IFR semanal de #PETR4 abaixo de 5. Já pensou como fica quem diz q só por chegar no 20 já é compra ?",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "16/04/2014 10h00",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_445662137961435137l",
+    "exemplo": "$EMBR3 - Embraer (embr-nm)   Ago   16/04/2014   10h00 - Dividendo http://t.co/HMoUSIB2AK",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "7 dias",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_445938167011901440l",
+    "exemplo": "@Smarttrade10 @ferrisss @dfittarelli Volume em PETR4 bom hj, 45% superior ao volume medio dos últimos 7 dias.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "18/03/2014 12:11",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_445940500210925569l",
+    "exemplo": "OIBR4 comprar a R$ 3.43 indicado em 18/03/2014 12:11 e finalizou a venda com resultado de R$ 0.84 ou 24.49 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "4º trimestre",
+    "UPOS": "ADJ NOUN",
+    "exemplo_id": "dante_01_445942111645757440l",
+    "exemplo": "#BOVESPA #KROT3 Lucro da Kroton quase quintuplica e chega a R$ 137,8 mi no 4º trimestre. http://t.co/1gKfw69wFI",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "18/03/2014 12:20",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_445942735087104001l",
+    "exemplo": "MRVE3 comprar a R$ 7.12 indicado em 18/03/2014 12:20 e finalizou a venda com resultado de R$ 0.74 ou 10.39 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "15 dias",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_445957303431614465l",
+    "exemplo": "Depois de 15 dias parada, de folga do #daytrade....voltei! Operando só PETR4 para aquecer as turbinas!",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "17 de abril de 2014",
+    "UPOS": "NUM ADP NOUN ADP NUM",
+    "exemplo_id": "dante_01_445961142213808128l",
+    "exemplo": "#IBOV #MRFG3 Marfrig realiza assembleia geral ordinária dia 17 de abril de 2014, às 10:00h. http://t.co/5BYxsyu6Vm",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "18/03/2014 15:02",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_445983512223830016l",
+    "exemplo": "MRVE3 vender a R$ 7.02 indicado em 18/03/2014 15:02 e finalizou a compra com resultado de R$ -0.10 ou -1.40 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "18/03/2014 15:03",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_445983742226870272l",
+    "exemplo": "MRFG3 comprar a R$ 3.89 indicado em 18/03/2014 15:03 e finalizou a venda com resultado de R$ 0.10 ou 2.57 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "18/03/2014 15:23",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_445988803610951682l",
+    "exemplo": "JBSS3 comprar a R$ 7.57 indicado em 18/03/2014 15:23 e finalizou a venda com resultado de R$ -0.13 ou -1.72 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "18/03/2014 15:41",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_445993566423502849l",
+    "exemplo": "ELPL4 comprar a R$ 7.85 indicado em 18/03/2014 15:41 e finalizou a venda com resultado de R$ -0.17 ou -2.17 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "19/03/2014 10:34",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_446278582575579136l",
+    "exemplo": "MRVE3 comprar a R$ 7.14 indicado em 19/03/2014 10:34 e finalizou a venda com resultado de R$ -0.12 ou -1.68 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "1º de abril",
+    "UPOS": "ADJ ADP NOUN",
+    "exemplo_id": "dante_01_446284799704330240l",
+    "exemplo": "ABEV3, caindo neste instante 1,01%, com rumores de q a Receita Federal se prepara para aumentar em 1º de abril impostos s/ bebidas frias...",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "19/03/2014 12:05",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_446301419499712514l",
+    "exemplo": "BBAS3 comprar a R$ 19.38 indicado em 19/03/2014 12:05 e finalizou a venda com resultado de R$ 0.71 ou 3.66 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "19/03/2014 12:20",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_446305173074616320l",
+    "exemplo": "BRKM5 comprar a R$ 16.45 indicado em 19/03/2014 12:20 e finalizou a venda com resultado de R$ 1.37 ou 8.33 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "19/03/2014 14:10",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_446344536202444800l",
+    "exemplo": "PETR4 comprar a R$ 13.32 indicado em 19/03/2014 14:10 e finalizou a venda com resultado de R$ 1.06 ou 7.96 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "R$ 1.06",
+    "UPOS": "SYM NUM",
+    "exemplo_id": "dante_01_446344536202444800l",
+    "exemplo": "PETR4 comprar a R$ 13.32 indicado em 19/03/2014 14:10 e finalizou a venda com resultado de R$ 1.06 ou 7.96 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "19/03/2014 14:13",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_446349798820818944l",
+    "exemplo": "PETR3 comprar a R$ 12.79 indicado em 19/03/2014 14:13 e finalizou a venda com resultado de R$ 0.42 ou 3.28 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "19/03/2014 14:37",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_446350226698539008l",
+    "exemplo": "MRVE3 vender a R$ 7.12 indicado em 19/03/2014 14:37 e finalizou a compra com resultado de R$ -0.02 ou -0.28 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "19/03/2014 14:16",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_446357823157698560l",
+    "exemplo": "VALE3 comprar a R$ 29.95 indicado em 19/03/2014 14:16 e finalizou a venda com resultado de R$ 2.87 ou 9.58 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "19/03/2014 15:43",
+    "UPOS": "NUM NUM",
+    "exemplo_id": "dante_01_446358680796413953l",
+    "exemplo": "LLXL3 comprar a R$ 0.88 indicado em 19/03/2014 15:43 e finalizou a venda com resultado de R$ 0.12 ou 13.64 % http://t.co/kgt1YiTbF7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "17/04/2014 11h00",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_446377336146251776l",
+    "exemplo": "$VALE3 - Vale (vale-n1)   Ago/e   17/04/2014   11h00 http://t.co/yYZR3MNNu2",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "19 março",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_446424882575052800l",
+    "exemplo": "Análise da Bolsa 19 março BBAS3, IBOV, PETR4, VALE5, OIBR4, HYPE3, DASA3, RADL3 http://t.co/gTy9rMNnT3",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "segunda ate hoje",
+    "UPOS": "NOUN ADP ADV",
+    "exemplo_id": "dante_01_446425973379334145l",
+    "exemplo": "@sidimarcoelho de segunda ate hoje, elet3 subiu 11,4% e a elet6 6,6% ta acompanhando??? Fiquei contente pa kct, adivinha pq???",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "20 a 30 anos",
+    "UPOS": "NUM ADP NUM NOUN",
+    "exemplo_id": "dante_01_446638919015477248l",
+    "exemplo": "@picapautrader vc acha que vale comprar petr4 pra LP, ou isso só para os fortes? Falo em 20 a 30 anos",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "uma década",
+    "UPOS": "DET NOUN",
+    "exemplo_id": "dante_01_446658495862292480l",
+    "exemplo": "#petr4 sem medo de errar, ou essa alta marcou o fim da queda de uma década, ou é só mais um repique momentâneo. Esse ano ainda tem eleições!",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "Esse ano",
+    "UPOS": "DET NOUN",
+    "exemplo_id": "dante_01_446658495862292480l",
+    "exemplo": "#petr4 sem medo de errar, ou essa alta marcou o fim da queda de uma década, ou é só mais um repique momentâneo. Esse ano ainda tem eleições!",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "200 MESES",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_446659838370938880l",
+    "exemplo": "ahhh, e lembram que a #PETR4 estava abaixo de a média de 200 MESES ... pois então, voltou para cima ! =) (+- em os R$13,38)",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "0 dias",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_446663297103060992l",
+    "exemplo": "Postado há 0 dias... quem segue sabe RT @Live_Trade: #petr4 amanhã no primeiro sinal intra entro na compra",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "2 dias",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_446694812100460544l",
+    "exemplo": "Cuidado com VALE5. IMA-crash da Vale está ficando muito alto.Grande chance de queda forte nos próx. 2 dias, http://t.co/j9Jxow4GS6",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "25/04/2014 9h00",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_446720857130672128l",
+    "exemplo": "$GFSA3 - Gafisa (gfsa-nm)   Ago   25/04/2014   9h00 - Dividendo http://t.co/a98E5bUCoJ",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "14:17 hs - 20/03/2014",
+    "UPOS": "NUM NOUN PUNCT NUM",
+    "exemplo_id": "dante_01_446780331870257153l",
+    "exemplo": "Que coisa ! RT@ Bancotario #PETR4 @atentos R$ 14,03 !!!  14:17 hs - 20/03/2014 http://t.co/5AX97Wo7m3",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "Hoje , 20/03 ( quinta-feira )",
+    "UPOS": "ADV PUNCT NUM PUNCT NOUN PUNCT",
+    "exemplo_id": "dante_01_446815402728112128l",
+    "exemplo": "Hoje, 20/03 (quinta-feira) O Ibovespa fechou em alta de +1,53%, aos 47.278 pontos. Destaques: RSID3 +5,29%, BBAS3 +4,84% e ELET3 +4,33%.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "60 min",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_446975948576260096l",
+    "exemplo": "RT @Jgrafista11: Nos 60 min da #PETR4 podemos ter feito uma Onda 5 de topo , uma C de Topo e abaixo de 14,45 alvos 13,75 13,55 e 13,40 http…",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "16 de março às a as 12:12",
+    "UPOS": "NUM ADP NOUN NA ADP DET NUM",
+    "exemplo_id": "dante_01_447047277907939328l",
+    "exemplo": "#VALE5é #VENDA ? rsss #DEAL! #DEAL! #DEAL! ' 16 de março a as 12:12 ' após vencto de as opções podem puxar em a ... http://t.co/4mOMj1Om7d",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "Hoje , 21/03/2014",
+    "UPOS": "ADV PUNCT NUM",
+    "exemplo_id": "dante_01_447075004153593857l",
+    "exemplo": "@teresinhalopes Hoje, 21/03/2014, as Ações da PETROBRÁS ( PETR4 ) estão sendo comercializadas nos valores que foram em Agosto de 2005 !",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "Agosto de 2005",
+    "UPOS": "NOUN ADP NUM",
+    "exemplo_id": "dante_01_447075004153593857l",
+    "exemplo": "@teresinhalopes Hoje, 21/03/2014, as Ações da PETROBRÁS ( PETR4 ) estão sendo comercializadas nos valores que foram em Agosto de 2005 !",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "20 anos",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_447089198856548352l",
+    "exemplo": "Sorte do dia: Você não tirou sua grana de 20 anos de FGTS pra comprar ações da #PETR4",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "21/03/2014 - 17:21",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_447105629615038464l",
+    "exemplo": "21/03/14 - 17:21: Maiores Altas: GGBR4 2,40% R$14,49, CESP6 2,40% R$24,33, ECOR3 2,03% R$13,06, CSAN3 1,98% R$33,50, ELET6 1,82% R$10,07.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "21/03/2014 - 17:22",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_447105828613804032l",
+    "exemplo": "21/03/14-17:22: Maiores Baixas: ESTC3 -5,10% R$21,58, LLXL3 -3,13% R$0,93, DASA3 -2,55% R$13,75, JBSS3 -2,41% R$7,68, KROT3 -1,91% R$ 47,82.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "um ano depois",
+    "UPOS": "NUM NOUN ADV",
+    "exemplo_id": "dante_01_447190815329497090l",
+    "exemplo": "@coroneldoblog @o_colecionador problema nao é esse. Problema é o bilhao de dolares (3x valuation pago pela PETR4) um ano depois.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "20-30 anos",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_447268375631523840l",
+    "exemplo": "@andremassaro vc acha que comprar petr4 pra LP(20-30anos) é bater palma pra louco dançar ou dá pra ter esperança na nossa PDVESA...",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "20 ANOS",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_448116868541587456l",
+    "exemplo": "OPORTUNIDADE #PETROBRAS: O MENOR PREÇO EM 20 ANOS? #PETR4 Na semana passada, vários indicadores de péssima... http://t.co/o57yNlV4WC",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "22/04/2014 - 8h30",
+    "UPOS": "NUM PUNCT NOUN",
+    "exemplo_id": "dante_01_448129883009716224l",
+    "exemplo": "$DTEX3 - Duratex (dtex-nm) - Ago/e - 22/04/2014 - 8h30 / Bonificacao Em Acoes http://t.co/qGdgdWDJix",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "5 dias",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_448194904859361281l",
+    "exemplo": "em 5 dias PETR3 sobe de 12 para 14. e a sua CVM já fez alguma coisa hoje?",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "2 anos",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_448252691761094656l",
+    "exemplo": "@Adriano3Luis concordo com vc, talvez o mercado tenha precificado isto, e agora com 2 anos de 'paz' tomara que amanhã suba, p vender petr4",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "1 decada",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_448601665160355840l",
+    "exemplo": "Tenho papéis da PETR4 e, pelo jeito, vai demorar 1 decada para recuperar meu investimento. Estou ganhando um 'jabaculê' lançando 'opção'.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "semana retrasada",
+    "UPOS": "NOUN ADJ",
+    "exemplo_id": "dante_01_448652131277754369l",
+    "exemplo": "@Zaga_Silos Já subiu... na semana retrasada chegou a R$13,xx e Imprensa diz graças à Petrobras a Bolsa subiu... #BBAS3 - #OIBR4 etc..down",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "10/04/2014 - 16h00",
+    "UPOS": "NUM PUNCT NOUN",
+    "exemplo_id": "dante_01_448882754701508608l",
+    "exemplo": "$ALLL3 - All Amer Lat (alll-nm) - Ago/e - 10/04/2014 - 16h00 - Distribuicao De Dividendo http://t.co/uwgDsLkOnk",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "22/04/2014 - 11h00",
+    "UPOS": "NUM PUNCT NOUN",
+    "exemplo_id": "dante_01_448902501086273536l",
+    "exemplo": "$AEDU3 - Anhanguera (aedu-nm) - Ago - 22/04/2014 - 11h00 / Distribuicao De Dividendo http://t.co/1lJw1uN5m7",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "28/04/2014 - 11h00",
+    "UPOS": "NUM PUNCT NOUN",
+    "exemplo_id": "dante_01_449542990672199680l",
+    "exemplo": "$AEDU3 - Anhanguera (aedu-nm) - Ago - 28/04/2014 - 11h00 / Distribuicao De Dividendo http://t.co/cqdsO4mZIq",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "2014 - 2018",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_449547971592724480l",
+    "exemplo": "$ELET3 - Eletrobras (elet-n1) - Fato Relevante - Plano Diretor De a Eletrobras 2014 - 2018 http://t.co/aU1yp7jqyU",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "29/04/2014 10h00",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_449617191114387456l",
+    "exemplo": "$CPFE3 - Cpfl Energia (cpfe-nm)   Ago   29/04/2014   10h00  - Dividendo Complementar http://t.co/zeIfMG6sk0",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "28/03/2014 - 17:18",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_449641621618167808l",
+    "exemplo": "28/03/14 - 17:18: Maiores Altas: RSID3 6,06% R$1,75, BRML3 3,58% R$19,06, ESTC3 3,24% R$22,28, AEDU3 3,18% R$13,59, PDGR3 2,96% R$1,39.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "28/03/14 - 17:19",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_449641835276034049l",
+    "exemplo": "28/03/14-17:19:Maiores Baixas: BRFS3 -2,49% R$45,34, SANB11 -2,25% R$12,12, CSNA3 -2,17% R$9,88, LIGT3 -2,06% R$18,52, TBLE3 -1,60% R$34,92.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "23/04/2014 - 15h00",
+    "UPOS": "NUM PUNCT NOUN",
+    "exemplo_id": "dante_01_449649666217746432l",
+    "exemplo": "$HGTX3 - Cia Hering (hgtx-nm) - Ago/e - 23/04/2014 - 15h00 / Distribuicao De Dividendo http://t.co/WcPwQGDChr",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "sexta-feira ( 4 )",
+    "UPOS": "NOUN PUNCT NUM PUNCT",
+    "exemplo_id": "dante_01_450805713682460672l",
+    "exemplo": "Prumo Logística, antiga LLX (#LLXL3) anunciou que a partir de sexta-feira (4) passará a ser negociada sob o ticker #PRML3 .",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "quinta feira",
+    "UPOS": "NOUN X",
+    "exemplo_id": "dante_01_451061383229374464l",
+    "exemplo": "@ferrisss @gigzsss dia 'com' na petr4 é amanhã.....deve arrefecer e levar junto o IBOV a partir de quinta feira",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "19 de fevereiro",
+    "UPOS": "NUM ADP NOUN",
+    "exemplo_id": "dante_01_451103473405538304l",
+    "exemplo": "#IBOV #CCRO3 CCR publica ata de a reunião de o conselho de administração realizada dia 19 de fevereiro. http://t.co/R0eQ7JedZl",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "ontem ( 1º )",
+    "UPOS": "ADV PUNCT ADJ PUNCT",
+    "exemplo_id": "dante_01_451331317205323776l",
+    "exemplo": "BVMF3 gerou ontem (1º) um engolfo de baixa. O que significa e como identificar esse padrão dos candlesticks. Assista! http://t.co/noWpYSL2kZ",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "30/04/2014 11h00",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_451347694989369344l",
+    "exemplo": "$ESTC3 - Estacio Part (estc-nm)   Ago/e   30/04/2014   11h00   Distribuicao De Dividendo http://t.co/cuE0jepyyo",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "um dia depois",
+    "UPOS": "NUM NOUN ADV",
+    "exemplo_id": "dante_01_451358257169567744l",
+    "exemplo": "As ações da Oi sobem forte, um dia depois da CVM ter revogado a suspensão da oferta de ações: OIBR4, +4,51% e OIBR3, +4,95%",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "28/04/2014 11h00",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_451368222600986624l",
+    "exemplo": "$DASA3 - Dasa (dasa-nm)  Ago   28/04/2014   11h00   Distribuicao De Dividendo http://t.co/t0sVt3htz6",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "dois anos",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_451455862130102272l",
+    "exemplo": "Papel com variação Positiva ELET3  R$ 7,08  4,89% Ver gráfico de dois anos",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "28/04/14 10h30",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_451685086862508032l",
+    "exemplo": "$ECOR3 - Ecorodovias (ecor-nm)   Ago/e   28/4/14   10h30  Dist. De Dividendo(complemento) http://t.co/roZDihEpaA",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "1o. T/2014",
+    "UPOS": "ADJ NOUN",
+    "exemplo_id": "dante_01_451686121500856320l",
+    "exemplo": "$VALE3 - Vale (vale-n1) - Informa Datas De Divulgacao Do Desempenho Do 1o. T/2014 http://t.co/HrsAHWIwYv",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "42 d ...",
+    "UPOS": "NUM ADP PUNCT",
+    "exemplo_id": "dante_01_451706550327836672l",
+    "exemplo": "Não foram só estatais, veja quem mais ganhou com rumor de queda de Dilma nas pesquisas: 42 d... http://t.co/xlCqyk502s #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "1 hora",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_451722338762244097l",
+    "exemplo": "Mas a #vale5 está muito volátil. Volto a olhar para o charts em 1 hora no mínimo. @ELISLEITAO",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "06 - ' 13",
+    "UPOS": "NUM PUNCT PUNCT NUM",
+    "exemplo_id": "dante_01_452038585928392704l",
+    "exemplo": "Inflação acumul/ '06-'13 tá em 50%!? MT '@ivomarcelino #PETR4 finanças vão mal, mas salários diretores R$13,5 milhões http://t.co/Eadm8PP064",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "30/04/2014 - 14h00",
+    "UPOS": "NUM PUNCT NOUN",
+    "exemplo_id": "dante_01_452072431071821825l",
+    "exemplo": "$ELET3 - Eletrobras (elet-n1) - Ago - 30/04/2014 - 14h00 - Jcp http://t.co/ErDMSB1oGg",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "abril de 2013",
+    "UPOS": "NOUN ADP NUM",
+    "exemplo_id": "dante_01_452163926068064256l",
+    "exemplo": "BC eleva juros básicos para 11%. Selic, que em abril de 2013 estava em 7,25%, agora já supera o nível do final do governo Lula. ibov petr4",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "04/04/2014 - 17:19",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_452178560162467840l",
+    "exemplo": "04/04/14 - 17:19: Maiores Altas: PCAR4 2,36% R$104,64, NATU3 1,78% R$38,27, CSNA3 1,63% R$9,96, BRML3 1,63% R$19,37.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "04/04/14 - 17:20",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_452178688780804096l",
+    "exemplo": "04/04/14-17:20:Maiores Baixas: CIEL3 -3,53% R$35,55, GOAU4 -3,14% R$16,94, CCRO3 -3,14% R$16,95, BBDC3 -3,04% R$33,17, ENGI3 -2,98% R$10,08.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "4° tri",
+    "UPOS": "ADJ NOUN",
+    "exemplo_id": "dante_01_452181916918112256l",
+    "exemplo": "Perdas e ganhos bilionários: veja os melhores e piores setores da Bolsa no 4° tri: Segundo o... http://t.co/MdZAPviqva #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "num em um ano",
+    "UPOS": "NA ADP NUM NOUN",
+    "exemplo_id": "dante_01_453163608466526208l",
+    "exemplo": "@NegocioDeBolsa O prejuízo da USIM5 em 2012 foi de quase 600 bi. Logo, ela melhorou mais de 500 bi num ano p/ fechar no azul em 2013.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "sexta-feira , dia 04/04",
+    "UPOS": "NOUN PUNCT NOUN NUM",
+    "exemplo_id": "dante_01_453170470834425856l",
+    "exemplo": "A LIGHT S.A. fechou a sexta-feira, dia 04/04, a o preço de R$ 18,83 (+0,16%) com volume de R$ 20,51 mm. $LIGT3",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "28/04/2014 10h00",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_453227212003901442l",
+    "exemplo": "$CTIP3 - Cetip ( ctip-nm ) Ago / e 28/04/2014 10h00 Distribuicao De Dividendo http://t.co/8E9tQwMP72",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "30/04/2014 - 15h00",
+    "UPOS": "NUM PUNCT NOUN",
+    "exemplo_id": "dante_01_453540037515558912l",
+    "exemplo": "$BRML3 - Br Malls Par (brml-nm) - Ago/e - 30/04/2014 - 15h00 / Distribuicao De Dividendo http://t.co/GDk4GzbOYE",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "30/04/2014 10h00",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_453613022817566720l",
+    "exemplo": "$MRVE3 - Mrv (mrve-nm)   Ago/e   30/04/2014   10h00 - Dividedo http://t.co/8m8IoGMbiN",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "1º tri.",
+    "UPOS": "ADJ NOUN",
+    "exemplo_id": "dante_01_453685323869200385l",
+    "exemplo": "#OIL #AL #BR #PETR4 Royalties totalizam R$ 4,657 bilhões no 1º tri. devido ao crescimento da produção de petróleo. http://t.co/8bqYjafWaY",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "11/04/14 - 17:18",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_454715090777153537l",
+    "exemplo": "11/04/14- 17:18 : Maiores Altas : KROT3 4,17 % R$ 48,75 , CPLE6 3,62 % R$ 30,94 , AEDU3 3,44 % R$ 13,55 , PETR4 2,93 % R$ 16,14 , ALLL3 2,90 % R$ 8,31 .",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "11/04/2014 - 17:19",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_454715172222164993l",
+    "exemplo": "11/04/14-17:19: Maiores Baixas: SBSP3 -5,45% R$19,76, PDGR3 -5,13% R$1,48, DTEX3 -2,61% R$11,20, TIMP3 -1,97% R$10,95, DASA3 -1,68% R$14,65.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "semana que",
+    "UPOS": "NOUN PRON",
+    "exemplo_id": "dante_01_455335639634817024l",
+    "exemplo": "Gatilho position, semana que vem:   Ativo ccro3 - Compra  - Validade 18/abr - Start 17,76 - Stop 16,71 - RP 18,81 http://t.co/eH2Pzf26yN",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "sexta feira , dia 11/abr",
+    "UPOS": "NOUN X PUNCT NOUN NUM",
+    "exemplo_id": "dante_01_455695857925775360l",
+    "exemplo": "A LIGHT S.A. fechou a sexta feira, dia 11/04, ao preço de R$ 18,09 (+0,44%) com volume de R$ 13,43 mm. $LIGT3",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "1º tri sobre um ano antes",
+    "UPOS": "ADJ NOUN ADP NUM NOUN ADV",
+    "exemplo_id": "dante_01_456114609389600768l",
+    "exemplo": "#EMBR3 - Entregas da Embraer sobem 17% no 1º tri sobre um ano antes - http://t.co/DfRuX1LNrR",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "17 de abril",
+    "UPOS": "NUM ADP NOUN",
+    "exemplo_id": "dante_01_456450326267035648l",
+    "exemplo": "O estrategista da Gradual Investimentos, Flávio Conde, recomenda: Invista nas ações do Itaú Unibanco (ITUB4) nesta semana (até 17 de abril).",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "nesta em esta seman …",
+    "UPOS": "NA ADP DET NOUN PUNCT",
+    "exemplo_id": "dante_01_456454499620511744l",
+    "exemplo": "RT @gradualinvest: O estrategista da Gradual Investimentos, Flávio Conde, recomenda: Invista nas ações do Itaú Unibanco (ITUB4) nesta seman…",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "num em um dia",
+    "UPOS": "NA ADP NUM NOUN",
+    "exemplo_id": "dante_01_456870343760551936l",
+    "exemplo": "@clubedopairico Subir 4 % num dia a VALE5 nao sabe mais o que e isso",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "17/04/2014 - 17:18",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_456889392339386368l",
+    "exemplo": "17/04/14 - 17:18: Maiores Altas: BBAS3 4,71% R$24,20, ELPL4 4,26% R$9,29, PETR3 4,04% R$15,69, PETR4 3,99% R$16,41, GGBR4 3,91% R$13,81.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "17/04/2014 - 17:19",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_456889471439736832l",
+    "exemplo": "17/04/14 - 17:19:Maiores Baixas: PDGR3 -3,52% R$1,37, CSAN3 -1,67% R$38,08, AEDU3 -1,60% R$13,50, MRVE3 -1,33% R$7,41, ESTC3 -1,27% R$23,30.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "quinta-feira , 17 de abril",
+    "UPOS": "NOUN PUNCT NUM ADP NOUN",
+    "exemplo_id": "dante_01_456910198448594944l",
+    "exemplo": "Análises #Ichimoku: #PETR4, #BBAS3, #GGBR4 e #ENBR3. Guia de Ações, pregão de quinta-feira, 17 de abril. http://t.co/HoOXqNPi1e",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "29 de Abril",
+    "UPOS": "NUM ADP NOUN",
+    "exemplo_id": "dante_01_458603788270850048l",
+    "exemplo": "KLBN4: Estendeu o prazo para a conversão de suas units para 29 de Abril.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "terça-feira , 22 de abril",
+    "UPOS": "NOUN PUNCT NUM ADP NOUN",
+    "exemplo_id": "dante_01_458717530354647040l",
+    "exemplo": "Análises #Ichimoku: #ABEV3, #HYPE3, #ELPL4, #LIGT3. Guia de Ações, pregão de terça-feira, 22 de abril. http://t.co/aHEfw6kZEe",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "28 de abril",
+    "UPOS": "NUM ADP NOUN",
+    "exemplo_id": "dante_01_459033882185445376l",
+    "exemplo": "Dia 28 de abril  (segunda) haverá divulgacao de Pesquisa Eleitoral para Presidente contratada por a CNT… #Petr4 Talvez recupere",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "15:35 H",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_459037552989966336l",
+    "exemplo": "$PETR3 - Leilao De Petrq87(petr3) Ate 15:35 H - Oscilacao Maxima Permitida http://t.co/RgMJZcPtfT",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "23 de abril",
+    "UPOS": "NUM ADP NOUN",
+    "exemplo_id": "dante_01_459082549063843841l",
+    "exemplo": "Guia #Ichimoku #Ibovespa de Ações - Destaques de o pregão de 23 de abril: #BBDC4, #VALE5, #KROT3, #CMIG4. http://t.co/Ka0DZe8GHb",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "desde 17/mar",
+    "UPOS": "ADP NUM",
+    "exemplo_id": "dante_01_459129085256822785l",
+    "exemplo": "@pjcmota, http://t.co/9W1TebK96Z Ação se valorizou de $11,84 a $16,03 desde 17/3, isto é, 35%. Fatores externos comandam preço de ações.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "31 de março de 2014",
+    "UPOS": "NUM ADP NOUN ADP NUM",
+    "exemplo_id": "dante_01_459290386096463872l",
+    "exemplo": "Em 31 de março de 2014, o valor de mercado de o Bradesco era de R$ 135,938 bilhões. #BBDC4",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "março de 2013",
+    "UPOS": "NOUN ADP NUM",
+    "exemplo_id": "dante_01_459291988228341760l",
+    "exemplo": "O Patrimônio Líquido, em março de 2014, somou R$ 73,326 bilhões, 5,6% superior a março de 2013. #BBDC4",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "primeiro trimestre de ...",
+    "UPOS": "ADJ NOUN ADP PUNCT",
+    "exemplo_id": "dante_01_459313240757915648l",
+    "exemplo": "Bradesco lucra R$ 3,4 bilhões O BRADESCO (BBDC4) apresentou hoje pela manhã o resultado do primeiro trimestre de... http://t.co/Yzhvx5rN1d",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "28 - segunda",
+    "UPOS": "NUM PUNCT NOUN",
+    "exemplo_id": "dante_01_459317224105598976l",
+    "exemplo": "@Andraus_adv E tem pesquisa eleitoral da CNT a ser divulgada dia 28 - segunda. Imagina a cena… Dilma caindo Petr4 subindo…",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "07/05/2014 - 15h",
+    "UPOS": "NUM PUNCT NOUN",
+    "exemplo_id": "dante_01_459711941817417728l",
+    "exemplo": "$HGTX3 - Cia Hering (hgtx-nm) - Age - 2a Convocacao - 07/05/2014 - 15h / Aumento De o Cap. http://t.co/dyHY6t7JGO",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "25/04/2014 - 17:18",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_459788393640366082l",
+    "exemplo": "25/04/14 - 17:18: Maiores Altas: ALLL3 4,73% R$8,84, TIMP3 4,05% R$11,56, KROT3 2,97% R$46,75, GFSA3 1,39% R$3,63, NATU3 1,23% R$ 38,51.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "25/04/2014 - 17:19",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_459788550645760000l",
+    "exemplo": "25/04/14 - 17:19: Maiores Baixas: RSID3 -5,32% R$ 1,60, OIBR4 -4,16% R$2,53, ENGI3 -3,79% R$10,39, PDGR3 -3,59% R$1,34, ELET3 -3,17% R$7,63.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "próxima semana",
+    "UPOS": "ADJ NOUN",
+    "exemplo_id": "dante_01_459835328510324736l",
+    "exemplo": "Resultado de Vale, Itaú e mais 14 empresas agitam a próxima semana: Entre as companhias do I... http://t.co/rIdPsIJbvB #infomoney #vale5",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "Essa semana",
+    "UPOS": "DET NOUN",
+    "exemplo_id": "dante_01_460763654410223616l",
+    "exemplo": "Essa semana temos ainda o resultado do primeiro trimestre de 2014 em VALE5.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "um mês antes ou mais",
+    "UPOS": "NUM NOUN ADV CCONJ ADV",
+    "exemplo_id": "dante_01_461200171653951492l",
+    "exemplo": "@CaciqueInvest Petr4 postei 12,50 um mês antes ou mais rsrsr",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "menos dum de um mês",
+    "UPOS": "ADV NA ADP NUM NOUN",
+    "exemplo_id": "dante_01_461522403651104769l",
+    "exemplo": "#abev3 Governo irá aumentar novamente a tributação da cerveja e refrigerante no País. É o segundo aumento em menos de um mês.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "30/04/14 - 17:19",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_461600697310781440l",
+    "exemplo": "30/04/14 - 17:19: Maiores Altas: AEDU3 6,09% R$13,75, CMIG4 3,32% R$16,79, VIVT4 3,23% R$46,94, GOLL4 2,94% R$14,31, RSID3 2,54% R$1,61.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "30/04/14 - 17:20",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_461600763786326016l",
+    "exemplo": "30/04/14-17:20: Maiores Baixas: AMBV3 -5,36% R$16,24, CRUZ3 -3,04% R$20,38, DASA3 -3,00% R$13,55, USIM5 -2,99% R$8,75, BBDC3 -2,53% R$34,17.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "2a. feira",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_462227323363004416l",
+    "exemplo": "RT @chrinvestor: Nova composição do índice #Ibovespa passa a valer a partir de 2a. feira. Itaú (#ITAU4) e Bradesco  (#BBDC4) com as maiores…",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "novembro para dezembro de 2013",
+    "UPOS": "NOUN ADP NOUN ADP NUM",
+    "exemplo_id": "dante_01_462285259019915265l",
+    "exemplo": "fato curioso: a #PETR4 havia deixado um GAP aberto de novembro para dezembro de 2013. Se for ate os R$17,45 ele será considerado fechado. =)",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "6 meses atrás",
+    "UPOS": "NUM NOUN ADV",
+    "exemplo_id": "dante_01_462288189504626689l",
+    "exemplo": "e não é que a #PETR4 fechou um GAP de 6 meses atrás ? =) Parabéns menina, você é má, muito má ! ,)",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "4 horas",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_462318214954119168l",
+    "exemplo": "4 horas depois a #PETR4 envia uma errata ao mercado modificando a produção de 0,2% para 2,4%. Estava subindo antes por que?? Só no Brasil...",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "05 maio 2014",
+    "UPOS": "NUM NOUN NUM",
+    "exemplo_id": "dante_01_463378603195916288l",
+    "exemplo": "Análise VALE5 (05 maio 2014) http://t.co/nTvyicCUCN",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "31 de março",
+    "UPOS": "NUM ADP NOUN",
+    "exemplo_id": "dante_01_463385848562847744l",
+    "exemplo": "#PETR4): A cia informou que foi encerrado no dia 31 de março o prazo de inscrição para o Plano de Incentivo ao... http://t.co/I7occ2nK3m",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "amanhã dia 07",
+    "UPOS": "ADV NOUN NUM",
+    "exemplo_id": "dante_01_463768538793377792l",
+    "exemplo": "#GGBR4 o balanço é amanhã dia 07 antes do pregão.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "51 dias atrás",
+    "UPOS": "NUM NOUN ADV",
+    "exemplo_id": "dante_01_464198610771779584l",
+    "exemplo": "Ações da @petrobras, PETR4 e PETR3, valem 50% mais do q valiam 51 dias atrás. Será que isso justifica a crise que tanto falam? #políticasuja",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "8 Mai",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_464375466359394305l",
+    "exemplo": "Lucro da Telefônica Brasil cai 18,4% no 1º tri: SãO PAULO, 8 Mai (Reuters) - O lucro da Telefônica Brasil (VIVT4)... http://t.co/uq3RNNgU3Q",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "dezembro 28 de 2007",
+    "UPOS": "NOUN NUM ADP NUM",
+    "exemplo_id": "dante_01_464480004689379328l",
+    "exemplo": "Petr3.SA tipo PETROBRAS ON em dezembro 28  de 2007 a cotação BOVESPA estava em minima  R$51,08 e maxima R$ 52,23, fonte Thomson Reuters.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "09/05/2014 - 17:19",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_464862078525001728l",
+    "exemplo": "09/05/14 - 17:19: Maiores Baixas: ELET3 -7,31% R$6,97, ELET6 -5,43% R$10,10, OIBR4 -4,95% R$2,11, JBSS3 -3,38% R$7,73, GOLL4 -2,87% R$13,54.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "mais dum de um mês",
+    "UPOS": "ADV NA ADP NUM NOUN",
+    "exemplo_id": "dante_01_467344380739993600l",
+    "exemplo": "#HYPE3 que coisa linda tem mais de um mês que fiz o destaque e muita corretora papou mosca mais de 15% na gordura.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "10 dias",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_468751325321527297l",
+    "exemplo": "caramba ... esse gráfico intraday de a #PETR4 tá mais de lado de o que não sei o quê ... o.O (quase 10 dias já !)",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "um ano pra cá",
+    "UPOS": "NUM NOUN ADP ADV",
+    "exemplo_id": "dante_01_468759628042739713l",
+    "exemplo": "#HGTX3 só perdeu R$20,00 de um ano pra cá! Coleções ruins, vendas fracas e ainda saiu do MSCI...que faseeeee",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "Terça , 18 de fevereiro de 2014 às a as 14:00 UTC - 3",
+    "UPOS": "NOUN PUNCT NUM ADP NOUN ADP NUM NA ADP DET NUM PROPN PUNCT NUM",
+    "exemplo_id": "dante_01_468939394930728960l",
+    "exemplo": "Terça, 18 de fevereiro de 2014 às 14:00 UTC-03 Marco Rossi Fibonaccing atualizou seu status. #USIM5 SETE E SETENTA ... ai... #Ocêtenta !",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "21 maio 14",
+    "UPOS": "NUM NOUN NUM",
+    "exemplo_id": "dante_01_469514433887088640l",
+    "exemplo": "IBOV, PETR4 e VALE5,  21 maio 14 - Sal Trade: http://t.co/DmHkHhHGm9 via @YouTube",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "Hoje , dia 22/05/2014",
+    "UPOS": "ADV PUNCT NOUN NUM",
+    "exemplo_id": "dante_01_469538033432137728l",
+    "exemplo": "#ABEV3 Hoje, dia 22/05/2014, é a data limite para negociação dos direitos de subscrição da AMBEV S.A (ABEV1).... http://t.co/uUnPNVLCr0",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "22 de maio de 2014",
+    "UPOS": "NUM ADP NOUN ADP NUM",
+    "exemplo_id": "dante_01_469553457804754944l",
+    "exemplo": "Notas Gerais da ADVFN - 22 de maio de 2014: • A PETROBRAS (PETR4) esclareceu ontem que todos… http://t.co/GKvokFi439",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "amanhã e depois",
+    "UPOS": "ADV CCONJ ADV",
+    "exemplo_id": "dante_01_469790871827648513l",
+    "exemplo": "Greve dos investidores, ninguém envia ordens amanhã e depois, pela volta da #OGXP3 a R$ 18, #PETR4 nos 40 e #VALE5 nos R$ 60!!",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "23/05/2014 - 17:19",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_469935619993780224l",
+    "exemplo": "23/05/14 - 17:19: Maiores Altas: CESP6 3,87% R$28,20, CIEL3 2,36% R$40,34, MRFG3 2,09% R$4,88, CMIG4 1,69% R$16,87, ESTC3 1,63% R$28,12.",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "23/05/14 - 17:20",
+    "UPOS": "NUM PUNCT NUM",
+    "exemplo_id": "dante_01_469935696380436481l",
+    "exemplo": "23/05/14 - 17:20 : Maiores Baixas : RSID3 - 2,38 % R$ 1,64 , CPFE3 - 1,86 % R$ 17,96 , BBDC4 - 1,77 % R$ 32,77 , ITUB4 - 1,76 % R$ 35,70 , BBAS3 - 1,76 % R$ 22,39 .",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "esse trimestre",
+    "UPOS": "DET NOUN",
+    "exemplo_id": "dante_01_470183485622460416l",
+    "exemplo": "Bom Dia!! Colocaria nesse trimestre USIM5 como neutra as ações!Demanda fraca nesse 2ºtrimestre",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "nesse em esse 2º trimestre",
+    "UPOS": "NA ADP DET ADJ NOUN",
+    "exemplo_id": "dante_01_470183485622460416l",
+    "exemplo": "Bom Dia!! Colocaria nesse trimestre USIM5 como neutra as ações!Demanda fraca nesse 2ºtrimestre",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "segunda-feira , 26 de maio",
+    "UPOS": "NOUN PUNCT NUM ADP NOUN",
+    "exemplo_id": "dante_01_471070477470167040l",
+    "exemplo": "#VALE5 - Análise #Ichimoku - pregão de segunda-feira, 26 de maio. http://t.co/K6yqm865eV",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "DURACAO",
+    "entidade": "20 meses",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_472016992686583810l",
+    "exemplo": "#IBOV #VALE5 Minério de ferro em a China recua a a mínima de 20 meses : http://t.co/SfiSqGtvoz",
+    "frequencia": 1
+  },
+  {
+    "categoria": "TEMPO",
+    "tipo": "TEMPO_CALEND",
+    "entidade": "14 dias",
+    "UPOS": "NUM NOUN",
+    "exemplo_id": "dante_01_472334907549954048l",
+    "exemplo": "#PETR4 A Petrobras contestou hoje que o conselho da estatal tenha aprovado, em apenas 14 dias, dois contratos sem... http://t.co/AJpnCodlAV",
+    "frequencia": 1
+  }
+]
