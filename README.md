@@ -17,8 +17,10 @@ Esse é um corpus de material textual compilado do Twitter, atualmente X. As pos
 * **Tagset**
   * Conjunto de etiquetas possíveis, conforme a marcação BIOES e a taxonomia utilizada baseada no Segundo HAREM [(Mota; Santos, 2008)](https://www.linguateca.pt/LivroSegundoHAREM/)
 
-* **Pasta com as regras usadas para anotar automaticamente entidades no corpus.**
+* **Regras**
+  * Pasta com as regras usadas para anotar automaticamente entidades no corpus.
   * As regras baseadas em _regex_ foram executadas no ambiente de anotação [Interrogatório](https://github.com/alvelvis/Interrogat-rio)
+    
 * **Instâncias anotadas**
   * Contém pasta com as instâncias anotadas. Estão separados por categorias em arquivos JSON.
   * Arquivo JSON com as instâncias anotadas em mais de uma categoria.
