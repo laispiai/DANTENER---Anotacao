@@ -1,0 +1,236 @@
+[
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "#Ichimoku",
+    "UPOS": "PROPN",
+    "exemplo_id": "dante_01_451843384052047872l",
+    "exemplo": "#MRFG3 - Análise #Ichimoku - Recomendação de Compra. http://t.co/TdLbYJsEds",
+    "frequencia": 12
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "BTC",
+    "UPOS": "PROPN",
+    "exemplo_id": "dante_01_441566388126511105l",
+    "exemplo": "Destaques de BTC ontem foram as Blues #BBAS3 (alugaram 2x o que negociou ontem), #PETR4 (tx max 180d) além de #RENT3 e #KROT3 @ferrisss",
+    "frequencia": 9
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "daytrade",
+    "UPOS": "NOUN",
+    "exemplo_id": "dante_01_441636217332178944l",
+    "exemplo": "#petr4 King Kong 1,48% no DT !!!!  Hj tá bão!!!!",
+    "frequencia": 9
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "fibonacci",
+    "UPOS": "NOUN",
+    "exemplo_id": "dante_01_443349486921068544l",
+    "exemplo": "“ @picapautrader: #VALE5traçando um fibo em o gráfico diário de a V5 a coisa tá feia ... http://t.co/TealqJuGiz ”",
+    "frequencia": 9
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "#ondasdeelliot",
+    "UPOS": "X",
+    "exemplo_id": "dante_01_446834007435927552l",
+    "exemplo": "Vou ver jaja as #ondasdeelliot na #petr4  vou postar no Twitter , vou ver #MMXM3 e algumas outras mais comentadas do dia .",
+    "frequencia": 5
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "Long&Short",
+    "UPOS": "PROPN",
+    "exemplo_id": "dante_01_444458618797436928l",
+    "exemplo": "Ideia de Long&Short por Credit Suisse - PETR4 x PETR3...quem quiser o relatório é só pedir!",
+    "frequencia": 3
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "Straddle",
+    "UPOS": "NOUN",
+    "exemplo_id": "dante_01_441961599499501568l",
+    "exemplo": "Fora das operações regulares penso seriamente em montar um Streaddle na PETR4 assim que ela mostrar aumento da volatilidade...",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "IDEIA",
+    "entidade": "mercado",
+    "UPOS": "NOUN",
+    "exemplo_id": "dante_01_443137961069412352l",
+    "exemplo": "Ainda sobre #PETROBRAS #PETR4, assunto de o dia. Como o Mercado reagirá amanhã a a captação bilionária? http://t.co/03Aet66FTO",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "Donchian",
+    "UPOS": "PROPN",
+    "exemplo_id": "dante_01_444083470961500160l",
+    "exemplo": "#PETR4 fêz Sub Onda 5 de fundo e Onda 3 de fundo na min de 10/03 e  temos como alvos pelo Donchian em 14,00 e 15,10 http://t.co/2TmK8xa6zG",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "#daytrade",
+    "UPOS": "NOUN",
+    "exemplo_id": "dante_01_445957303431614465l",
+    "exemplo": "Depois de 15 dias parada, de folga do #daytrade....voltei! Operando só PETR4 para aquecer as turbinas!",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "LS",
+    "UPOS": "PROPN",
+    "exemplo_id": "dante_01_446099653306884096l",
+    "exemplo": "@Igorcrp  Meus clientes estão entrando no LS de PETR4 x PETR3 - call do Credit!",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "OTM",
+    "UPOS": "PROPN",
+    "exemplo_id": "dante_01_448434556337922048l",
+    "exemplo": "dae negada, compraram as PUT da Petr4 OTM?",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "CNPI-T",
+    "UPOS": "PROPN",
+    "exemplo_id": "dante_01_449202677998960640l",
+    "exemplo": "Ai vai uma análise da PETR4. Abraço, André Mendonça, CNPI-T, MBA http://t.co/fpTCZomDGd",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "#RivaKeltner",
+    "UPOS": "X",
+    "exemplo_id": "dante_01_454024014735089664l",
+    "exemplo": "@Rivanews USIM5 então nem se fala... #RivaKeltner",
+    "frequencia": 2
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "Daytrade",
+    "UPOS": "NOUN",
+    "exemplo_id": "dante_01_441608336748720128l",
+    "exemplo": "BBDC4 Linda WW no Daytrade, mesmo entrando atrasado... e saindo cedo.. ,D http://t.co/WQPK5B1lNL",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "NOME",
+    "entidade": "LULU",
+    "UPOS": "PROPN",
+    "exemplo_id": "dante_01_443839528940621824l",
+    "exemplo": "#MGLU3 e #JBSS3 só sei q ninguém mais fala o tal 'VOA LULU' e 'SEGURA A BOIADA'...rsrs",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "OPA",
+    "UPOS": "PROPN",
+    "exemplo_id": "dante_01_444560724937809920l",
+    "exemplo": "BISA3 - AGE sobre OPA não foi realizada por falta de quórum A AGE da Brookfield Incorporações que deliberaria... http://t.co/UHOEPbGUFS",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "LONG&SHORT",
+    "UPOS": "PROPN",
+    "exemplo_id": "dante_01_448873740685037568l",
+    "exemplo": "LONG&SHORT de PETR4 x PETR3 indo MTOOOO BEM!!!",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "OBV",
+    "UPOS": "PROPN",
+    "exemplo_id": "dante_01_450379310764150784l",
+    "exemplo": "#ABEV3 ainda deixando muito a desejar... Seu OBV em o diário então horrivel!",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "Delta",
+    "UPOS": "PROPN",
+    "exemplo_id": "dante_01_451751239538450432l",
+    "exemplo": "Entrei numa operação Delta Hedge em #VALE5 vendido no papel e comprado em opções na proporção do Delta, por... http://t.co/79Ogm9GVka",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "Fibonacci",
+    "UPOS": "NOUN",
+    "exemplo_id": "dante_01_454284964583190528l",
+    "exemplo": "Ihhhh,o cara deu mesmo call de compra em PETR4 com base no candle de ontem? Traça o Fibonacci melhor ai amigo...rsrs",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "RK",
+    "UPOS": "PROPN",
+    "exemplo_id": "dante_01_454560977007443968l",
+    "exemplo": "A divergência de baixa formada no diário de #CMIG4 serviu apenas para fechar o descolamento com o RK ... Leia mais: http://t.co/QL31D4iUAV",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "#Ondasdeelliot",
+    "UPOS": "X",
+    "exemplo_id": "dante_01_456224557213683712l",
+    "exemplo": "Segue o gráfico atualizado da #OIBR4 pelas #Ondasdeelliot : http://t.co/UdxRKAHkMx",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "#OndasdeElliot",
+    "UPOS": "X",
+    "exemplo_id": "dante_01_458808116575227904l",
+    "exemplo": "Segue o gráfico atualizado da #PETR4 pelas #OndasdeElliot : http://t.co/4EzaUqct78",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "ESTADO",
+    "entidade": "gripe",
+    "UPOS": "NOUN",
+    "exemplo_id": "dante_01_463383564978253824l",
+    "exemplo": "Vale pegando gripe de a China… uma borboletinha bate asas em a China e vira um furacao em o porto de a Vale5…",
+    "frequencia": 1
+  },
+  {
+    "categoria": "ABSTRACAO",
+    "tipo": "DISCIPLINA",
+    "entidade": "DIDI",
+    "UPOS": "PROPN",
+    "exemplo_id": "dante_01_472446399607369728l",
+    "exemplo": "PETR4 pivot de baixa e agulhada do DIDI no diário http://t.co/7I8295r8lR",
+    "frequencia": 1
+  }
+]
