@@ -20,3 +20,6 @@ if regex("X", token.upos) and regex("#[a-zA-Z]{4}11", token.lemma):
 
 if regex("PROPN", token.upos) and regex("#[a-zA-Z]{4}11", token.lemma):
 	token.xpos = "ENTIDADE=S-COISA"	
+
+#Identificar hashtags
+#Busca: token.xpos != "_" and token.word = "#.*"
