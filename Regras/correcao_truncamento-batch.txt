@@ -1,0 +1,29 @@
+# Escreva seu script abaixo, seguindo a sintaxe das classes em estrutura_ud.py
+# O script é executado dentro de um loop (repetição) para cada "sentence" do corpus.
+# Dentro de cada "sentence", é realizado ainda um outro loop para acessar cada "token" de "sentence.tokens" (lista de tokens dessa frase), momento em que é aplicada a regra que poderá ser editada abaixo.
+# Não utilize as abreviações disponíveis apenas para busca, como "nt", "pt" e "ht"
+# Para adicionar novos valores a colunas com múltiplos valores (features, misc), utilize as funções append_to() e remove_from(), como no exemplo abaixo
+# Ex: append_to(token.feats, "Gender=Masc|Number=Sing")
+# Para buscar utilizando expressão regular, utilize a função regex(), como no exemplo abaixo
+# Ex: regex(".*mod", token.deprel)
+
+
+#Casos de truncamento - Buscas
+#Casos de truncamento anotados B - E
+#Occurrences: 29
+#Query: token.upos = "PUNCT" and token.xpos != "_" and @token.lemma == "\.\.\."
+
+#Occurrences: 45
+#Query: token.upos = "PUNCT" and token.xpos != "_" and @token.lemma == "…"
+
+#Casos que é sinalizado no próprio token URL
+token.upos = "SYM" and token.xpos != "_" and @token.lemma = "htt\S*…$"
+#28
+
+
+#Correção truncamentos
+#token.xpos = "ENTIDADE=S-LOCAL-VIRTUAL" and token.next_token.xpos = "_" and #token.next_token.upos = "PUNCT" and token.next_token.lemma = "…"
+
+if regex("ENTIDADE=S-LOCAL-VIRTUAL", token.xpos) and regex("_", token.next_token.xpos) and regex("PUNCT", token.next_token.upos) and regex("…", token.next_token.lemma):
+	token.xpos = "ENTIDADE=B-LOCAL-VIRTUAL"
+	token.next_token.xpos = "ENTIDADE=E-LOCAL-VIRTUAL"
