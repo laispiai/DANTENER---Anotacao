@@ -22,4 +22,5 @@ if regex("ENTIDADE=S-PESSOA-", token.xpos):
 
 #Identificar menções
 #Busca: token.xpos != "_" and token.word = ".*@.*" and token.upos = "PROPN"
+#BUSCA: token.xpos != "_" and token.lemma = "\@.*"
 
