@@ -7,6 +7,7 @@
 # Para buscar utilizando expressão regular, utilize a função regex(), como no exemplo abaixo
 # Ex: regex(".*mod", token.deprel)
 
+#inclusão do novo tipo CERTIFICADO
 #if regex("PROPN", token.upos) and regex("\w+-nm", #token.lemma) and regex("ENTIDADE=S\-COISA\-TICKER", #token.xpos):
 #	token.xpos = "ENTIDADE=S-COISA-CERTIFICADO"
 
