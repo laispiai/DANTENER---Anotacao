@@ -36,14 +36,14 @@ A versão utilizada nesta anotação corresponde à versão 1.0, disponibilizada
 
 ### **Entidades Anotadas**
 - Contém:
-  - Pastas com instâncias anotadas, separadas por categorias em arquivos JSON.
+  - Arquivo `.json` com expressões anotadas em mais de uma categoria.
   - Arquivo `.xlsx` com a lista de entidades **unitárias** (compostas por um único token).
   - Arquivo `.xlsx` com a lista de entidades **multipalavra** (compostas por mais de um token).
-  - **Arquivo JSON com Entidades e POS Tags**:
+  - **Arquivo `.json` com Entidades e POS Tags**:
     - A estrutura do arquivo consiste em uma lista de objetos, onde cada objeto representa um tweet e contém:
       - `doc_id`: identificador do tweet.
       - `doc_text`: texto completo do tweet.
-      - `entities`: lista de entidades com texto, categoria, tipo e *offsets*.
+      - `entities`: lista de entidades com texto, categoria, tipo e *offsets* (posição no texto).
       - `pos_tags`: lista de classes gramaticais para cada token, incluindo *offsets*.
 
 ---
