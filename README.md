@@ -1,6 +1,6 @@
 # DANTENER — Anotação de Entidades Nomeadas
 
-**O objetivo deste repositório é abrigar a segunda anotação de Entidades Nomeadas no [DANTEStocks](https://sol.sbc.org.br/index.php/stil/article/view/17813/17647)**, expandindo aquela realizada por [Zerbinati et al. (2024)](https://aclanthology.org/2024.propor-1.28/).
+**O objetivo deste repositório é abrigar a segunda anotação de Entidades Nomeadas no [DANTEStocks](https://sol.sbc.org.br/index.php/stil/article/view/17813/17647)**, expandindo aquela realizada por [Zerbinati et al. (2024)](https://aclanthology.org/2024.propor-1.28/), disponível também no [Repositório ner_financial_tweets_portuguese](https://github.com/mzerbinatti/ner_financial_tweets_portuguese).
 
 Este trabalho é resultado da dissertação *"Anotação de Corpus: Caracterização de Entidades Nomeadas em Tweets do Mercado Financeiro"*, desenvolvida por Laís Piai, aluna do Programa de Pós-Graduação em Linguística da UFSCar.
 
