@@ -4,11 +4,11 @@
 
 Este trabalho é resultado da dissertação *"Anotação de Corpus: Caracterização de Entidades Nomeadas em Tweets do Mercado Financeiro"*, desenvolvida por Laís Piai, aluna do Programa de Pós-Graduação em Linguística da UFSCar.
 
-O DANTEStocks é um corpus de material textual compilado a partir do Twitter (atualmente X). As postagens foram coletadas automaticamente em 2014 com base nos *tickers* (códigos das ações) negociadas pelo índice IBOVESPA naquele ano.
+O DANTEStocks é um _corpus_ de material textual compilado a partir do Twitter (atualmente X). As postagens foram coletadas automaticamente em 2014 com base nos *tickers* (códigos das ações) negociadas pelo índice IBOVESPA naquele ano.
 
-Este é o primeiro corpus em português de conteúdo gerado por usuários (*user-generated content* – UGC) com anotação seguindo o modelo Universal Dependencies (UD).
+Este é o primeiro _corpus_ em português de conteúdo gerado por usuários (*user-generated content* – UGC) com anotação seguindo o modelo Universal Dependencies (UD).
 
-A versão utilizada nesta anotação corresponde à versão 1.0, disponibilizada em 15/12/2022, que contava apenas com anotação POS à época. Especificamente, o *corpus* possui **4.048 tweets** e um total de **84.396 tokens**. Outras versões estão descritas e disponíveis na página do projeto [Porttinari 2.0](https://sites.google.com/icmc.usp.br/poetisa/porttinari-2-0).
+A versão utilizada nesta anotação corresponde à versão 1.0, disponibilizada em 15/12/2022, que contava apenas com anotação POS à época. Especificamente, possui **4.048 tweets** e um total de **84.396 tokens**. Outras versões estão descritas e disponíveis na página do projeto [Porttinari 2.0](https://sites.google.com/icmc.usp.br/poetisa/porttinari-2-0).
 
 ---
 
