@@ -44,7 +44,7 @@ A versão utilizada nesta anotação corresponde à versão 1.0, disponibilizada
       - `doc_id`: identificador do tweet.
       - `doc_text`: texto completo do tweet.
       - `entities`: lista de entidades com texto, categoria, tipo e *offsets* (posição no texto).
-      - `pos_tags`: lista de classes gramaticais para cada token, incluindo *offsets*.
+      - `pos_tags`: lista de classes gramaticais para cada token do _**tweet**_, incluindo *offsets*.
 
 ---
 
